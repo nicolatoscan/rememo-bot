@@ -8,6 +8,7 @@ const FILE_PATH_FLAGS = 'data/flags.logs'
 
 type Word = { en: string, se: string[], points : number, known: boolean }
 let words: Word[] = JSON.parse(fs.readFileSync(FILE_PATH, 'utf8'))
+let currentWord: Word | null =  null;
 
 const bot = new Telegraf(process.env.BOT_TOKEN ?? '');
 bot.start((ctx) => ctx.reply('Ciao'));
@@ -38,10 +39,10 @@ bot.command('flag', async (ctx) => {
 
 bot.command('reload', async (ctx) => {
     words = JSON.parse(fs.readFileSync(FILE_PATH, 'utf8'))
+    currentWord = null;
     await ctx.reply('Reloaded');
 })
 
-let currentWord: Word | null =  null;
 bot.on('text', async (ctx) => {
     
     if (currentWord !== null) {
@@ -61,7 +62,7 @@ bot.on('text', async (ctx) => {
     }
 
     currentWord = words.filter(w => w.known).sort(() => Math.random() - 0.5).sort(w => w.points)[0];
-    await ctx.reply(`Next word:\n<code>${currentWord?.en}</code>`, { parse_mode: 'HTML' });
+    await ctx.reply(`Next word [${currentWord?.points}]:\n<code>${currentWord?.en}</code>`, { parse_mode: 'HTML' });
 
     fs.writeFileSync(FILE_PATH, JSON.stringify(words, null, 2));
 })

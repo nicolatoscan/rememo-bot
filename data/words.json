@@ -174,7 +174,7 @@
     "se": [
       "efter"
     ],
-    "points": 0,
+    "points": 0.5,
     "known": true
   },
   {
@@ -1135,7 +1135,7 @@
     "se": [
       "bröder"
     ],
-    "points": 0,
+    "points": 0.5,
     "known": true
   },
   {
@@ -3972,7 +3972,7 @@
     "se": [
       "barnbarn"
     ],
-    "points": 0,
+    "points": 0.5,
     "known": true
   },
   {
@@ -4176,7 +4176,7 @@
     "se": [
       "hattar"
     ],
-    "points": 0,
+    "points": 0.5,
     "known": true
   },
   {
@@ -5650,7 +5650,7 @@
     "se": [
       "meny"
     ],
-    "points": 0,
+    "points": 0.5,
     "known": true
   },
   {
@@ -5682,7 +5682,7 @@
     "se": [
       "mjölk"
     ],
-    "points": 0,
+    "points": 0.5,
     "known": true
   },
   {
@@ -5924,7 +5924,7 @@
     "se": [
       "mamma"
     ],
-    "points": 0,
+    "points": 0.5,
     "known": true
   },
   {
@@ -6438,7 +6438,7 @@
     "se": [
       "på"
     ],
-    "points": 0,
+    "points": 0.5,
     "known": true
   },
   {
@@ -6983,7 +6983,7 @@
     "se": [
       "polis"
     ],
-    "points": 0,
+    "points": 0.5,
     "known": true
   },
   {
@@ -11582,7 +11582,7 @@
     "se": [
       "jordgubben"
     ],
-    "points": 0,
+    "points": 0.0625,
     "known": true
   },
   {
@@ -12001,7 +12001,7 @@
       "deras",
       "sina"
     ],
-    "points": 0,
+    "points": 0.5,
     "known": true
   },
   {
@@ -13148,7 +13148,7 @@
     "se": [
       "när"
     ],
-    "points": 0,
+    "points": 0.5,
     "known": true
   },
   {
