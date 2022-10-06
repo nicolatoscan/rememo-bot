@@ -1,0 +1,13591 @@
+[
+  {
+    "en": "a few",
+    "se": [
+      "några"
+    ],
+    "points": 1,
+    "known": false
+  },
+  {
+    "en": "a little",
+    "se": [
+      "lite"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "ability",
+    "se": [
+      "möjlighet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "about",
+    "se": [
+      "omkring"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "abroad",
+    "se": [
+      "utomlands"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "absolutely",
+    "se": [
+      "absolut"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "accept",
+    "se": [
+      "acceptera"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "according to",
+    "se": [
+      "enligt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "account",
+    "se": [
+      "konto"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "accounts",
+    "se": [
+      "konton"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "achieve",
+    "se": [
+      "uppnå"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "activity",
+    "se": [
+      "aktivitet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "actor",
+    "se": [
+      "skådespelare"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "actress",
+    "se": [
+      "skådespelerska"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "actresses",
+    "se": [
+      "skådespelerskor"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "actually",
+    "se": [
+      "egentligen",
+      "faktiskt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "address",
+    "se": [
+      "adress"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "adopted",
+    "se": [
+      "antagit",
+      "antog"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "adventure",
+    "se": [
+      "äventyr"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "affect",
+    "se": [
+      "påverka"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "afraid",
+    "se": [
+      "rädd"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "after",
+    "se": [
+      "efter"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "again",
+    "se": [
+      "igen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "against",
+    "se": [
+      "mot"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "age",
+    "se": [
+      "ålder"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "agreed",
+    "se": [
+      "överens"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "agreement",
+    "se": [
+      "överenskommelse"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "airports",
+    "se": [
+      "flygplatser"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "åker",
+    "se": [
+      "åker"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "åland",
+    "se": [
+      "åland"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "alcohol",
+    "se": [
+      "alkohol"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "almost",
+    "se": [
+      "nästan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "alone",
+    "se": [
+      "ensam"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "along",
+    "se": [
+      "längs"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "already",
+    "se": [
+      "redan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "also",
+    "se": [
+      "också",
+      "även"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "alternative",
+    "se": [
+      "alternativ"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "always",
+    "se": [
+      "alltid"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "analyze",
+    "se": [
+      "analysera"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "and",
+    "se": [
+      "och"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "anger",
+    "se": [
+      "ilska"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "animal",
+    "se": [
+      "djur"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "annoyed",
+    "se": [
+      "irriterat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "annoying",
+    "se": [
+      "irriterande"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "answers",
+    "se": [
+      "svarar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "ant",
+    "se": [
+      "myra"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "anything",
+    "se": [
+      "någonting"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "apple",
+    "se": [
+      "äpple"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "apples",
+    "se": [
+      "äpplen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "application",
+    "se": [
+      "ansökning"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "approximately",
+    "se": [
+      "ungefär"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "april",
+    "se": [
+      "april"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "archipelago",
+    "se": [
+      "skärgård"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "architect",
+    "se": [
+      "arkitekt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "around",
+    "se": [
+      "runt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "arrange",
+    "se": [
+      "ordna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "as",
+    "se": [
+      "som"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "ask",
+    "se": [
+      "be"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "asked",
+    "se": [
+      "frågade",
+      "frågat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "asks",
+    "se": [
+      "frågar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "assume",
+    "se": [
+      "antar",
+      "förutsätta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "at",
+    "se": [
+      "hos",
+      "vid",
+      "åt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "at all",
+    "se": [
+      "alls"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "at least",
+    "se": [
+      "åtminstone"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "at the same time",
+    "se": [
+      "samtidigt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "aunt",
+    "se": [
+      "moster"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "austria",
+    "se": [
+      "österrike",
+      "österrikes"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "available",
+    "se": [
+      "finns"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "average",
+    "se": [
+      "genomsnittet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "avoid",
+    "se": [
+      "undvika"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "away",
+    "se": [
+      "bort",
+      "borta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "back",
+    "se": [
+      "tillbaka"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "backpack",
+    "se": [
+      "ryggsäck"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "badly",
+    "se": [
+      "illa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "baked",
+    "se": [
+      "bakad"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "baker",
+    "se": [
+      "bagare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "bakeries",
+    "se": [
+      "bagerier"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "bakery",
+    "se": [
+      "bageri"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "baltic sea",
+    "se": [
+      "östersjön"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "band",
+    "se": [
+      "band"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "bar",
+    "se": [
+      "bar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "barret",
+    "se": [
+      "barret"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "bars",
+    "se": [
+      "barer",
+      "bars"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "basketball",
+    "se": [
+      "basket"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "bath",
+    "se": [
+      "bad"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "be",
+    "se": [
+      "finnas",
+      "vara"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "be able to",
+    "se": [
+      "kunna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "be loved",
+    "se": [
+      "älskas"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "beach",
+    "se": [
+      "strand"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "bear",
+    "se": [
+      "björn",
+      "björnen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "beat",
+    "se": [
+      "slå"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "beats",
+    "se": [
+      "slår"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "became",
+    "se": [
+      "blev"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "become",
+    "se": [
+      "bli",
+      "blivit"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "becomes",
+    "se": [
+      "blir"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "bed",
+    "se": [
+      "säng"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "beef",
+    "se": [
+      "nötkött"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "been",
+    "se": [
+      "varit"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "beer",
+    "se": [
+      "öl"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "before",
+    "se": [
+      "före",
+      "förrän",
+      "förut",
+      "innan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "beginning",
+    "se": [
+      "början"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "begins",
+    "se": [
+      "börjar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "behind",
+    "se": [
+      "bakom"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "believe",
+    "se": [
+      "tro"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "belike",
+    "se": [
+      "troligtvis"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "belt",
+    "se": [
+      "skärp"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "berries",
+    "se": [
+      "bär"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "beside",
+    "se": [
+      "bredvid"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "better",
+    "se": [
+      "bättre"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "between",
+    "se": [
+      "mellan"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "biggest",
+    "se": [
+      "störst"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "bike",
+    "se": [
+      "cykel"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "bion",
+    "se": [
+      "bion"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "bird",
+    "se": [
+      "fågel"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "birds",
+    "se": [
+      "fåglar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "bit",
+    "se": [
+      "bit"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "bitti",
+    "se": [
+      "bitti"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "black",
+    "se": [
+      "svart"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "blacks",
+    "se": [
+      "svarta"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "blue",
+    "se": [
+      "blå"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "board",
+    "se": [
+      "styrelsens"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "boat",
+    "se": [
+      "båt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "boats",
+    "se": [
+      "båtar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "book",
+    "se": [
+      "bok"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "books",
+    "se": [
+      "bokar",
+      "böcker"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "bor",
+    "se": [
+      "bor"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "boring",
+    "se": [
+      "tråkig"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "born",
+    "se": [
+      "född"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "borrow",
+    "se": [
+      "låna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "both",
+    "se": [
+      "båda",
+      "både"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "bought",
+    "se": [
+      "köpte"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "boy",
+    "se": [
+      "pojke"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "boys",
+    "se": [
+      "killar",
+      "pojkar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "brazil",
+    "se": [
+      "brasilien"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "bread",
+    "se": [
+      "bröd"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "break",
+    "se": [
+      "rast"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "breakfast",
+    "se": [
+      "frukost"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "britain's",
+    "se": [
+      "storbritanniens"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "brother",
+    "se": [
+      "bror"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "brothers",
+    "se": [
+      "bröder"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "brown",
+    "se": [
+      "brun",
+      "bruna",
+      "brunt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "build",
+    "se": [
+      "bygga"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "buildings",
+    "se": [
+      "byggnader"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "built",
+    "se": [
+      "byggs"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "burst",
+    "se": [
+      "brister"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "busy",
+    "se": [
+      "upptagna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "but",
+    "se": [
+      "men"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "butter",
+    "se": [
+      "smör"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "butterflies",
+    "se": [
+      "fjärilar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "button",
+    "se": [
+      "knapp"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "buttons",
+    "se": [
+      "knappar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "buy",
+    "se": [
+      "köp",
+      "köpa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "buying",
+    "se": [
+      "köper"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "cake",
+    "se": [
+      "tårta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "calendar",
+    "se": [
+      "kalender"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "calendars",
+    "se": [
+      "kalendrar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "call",
+    "se": [
+      "kalla",
+      "ringa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "called",
+    "se": [
+      "heter",
+      "ringde"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "calls",
+    "se": [
+      "ringer"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "can",
+    "se": [
+      "kan",
+      "orkar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "candidate",
+    "se": [
+      "kandidat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "capital",
+    "se": [
+      "huvudstad"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "care",
+    "se": [
+      "bryr"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "career",
+    "se": [
+      "karriär"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "carpet",
+    "se": [
+      "matta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cars",
+    "se": [
+      "bilar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "case",
+    "se": [
+      "fall"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cat",
+    "se": [
+      "katt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "categories",
+    "se": [
+      "kategorier"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "category",
+    "se": [
+      "kategori"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cats",
+    "se": [
+      "katter"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "ceiling",
+    "se": [
+      "tak"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "center",
+    "se": [
+      "centrum"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "centimeter",
+    "se": [
+      "centimeter"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "centuries",
+    "se": [
+      "århundraden"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "century",
+    "se": [
+      "århundrade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "certainly",
+    "se": [
+      "bestämt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "chain",
+    "se": [
+      "kedja"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "chairs",
+    "se": [
+      "stolar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "champagne",
+    "se": [
+      "champagne"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "change",
+    "se": [
+      "förändring"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "changed",
+    "se": [
+      "ändrat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "chapter",
+    "se": [
+      "kapitel"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cheap",
+    "se": [
+      "billiga"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cheaper",
+    "se": [
+      "billigare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cheese",
+    "se": [
+      "ost"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "cheese grinder",
+    "se": [
+      "osthyveln"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cheese slicer",
+    "se": [
+      "osthyvel"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "chef's",
+    "se": [
+      "kockens"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "chefs",
+    "se": [
+      "kockar",
+      "kockarnas"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "chicken",
+    "se": [
+      "kyckling"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "children",
+    "se": [
+      "barn"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "children's",
+    "se": [
+      "barnens"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "china",
+    "se": [
+      "kinas"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "chinese",
+    "se": [
+      "kinesiskt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "choice",
+    "se": [
+      "val"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "chose",
+    "se": [
+      "valde"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "church",
+    "se": [
+      "kyrka"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cinema",
+    "se": [
+      "bio"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cinnamon",
+    "se": [
+      "kanel"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "classes",
+    "se": [
+      "klasser"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "clean",
+    "se": [
+      "ren"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "clearly",
+    "se": [
+      "tydligt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "climbed",
+    "se": [
+      "klättrade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "clock",
+    "se": [
+      "klocka"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "close",
+    "se": [
+      "stänga"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "closed",
+    "se": [
+      "stängd",
+      "stängda",
+      "stängde",
+      "stängt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "closes",
+    "se": [
+      "stänger"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "club",
+    "se": [
+      "klubba"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "coach",
+    "se": [
+      "tränare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "coat",
+    "se": [
+      "rock"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "coffee",
+    "se": [
+      "fika",
+      "kaffe"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cohabitation",
+    "se": [
+      "samboskap"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cold",
+    "se": [
+      "kall"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "colder",
+    "se": [
+      "kallare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "coldest",
+    "se": [
+      "kallaste"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "color",
+    "se": [
+      "färg"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "colorful",
+    "se": [
+      "färgglad"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "come",
+    "se": [
+      "kom",
+      "komma",
+      "kommit"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "comes",
+    "se": [
+      "kommer"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "comfortable",
+    "se": [
+      "bekvämt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "coming",
+    "se": [
+      "kommande"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "common",
+    "se": [
+      "vanlig"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "communication",
+    "se": [
+      "kommunikation"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "completely",
+    "se": [
+      "helt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "computer",
+    "se": [
+      "dator",
+      "datorn"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "concerns",
+    "se": [
+      "angår"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cone",
+    "se": [
+      "kon"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "conference",
+    "se": [
+      "konferens"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "congratulations",
+    "se": [
+      "grattis"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "considers",
+    "se": [
+      "anser"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "constantly",
+    "se": [
+      "ständigt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "contain",
+    "se": [
+      "innehålla"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "contained",
+    "se": [
+      "innehöll"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "contains",
+    "se": [
+      "innehåller"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "content",
+    "se": [
+      "innehåll"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "continue",
+    "se": [
+      "fortsätt",
+      "fortsätta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "control",
+    "se": [
+      "kontroll"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "conversation",
+    "se": [
+      "konversation"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cooked",
+    "se": [
+      "lagade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cool",
+    "se": [
+      "kallt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "copenhagen",
+    "se": [
+      "köpenhamn"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "correct",
+    "se": [
+      "stämmer"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "costs",
+    "se": [
+      "kostar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "could",
+    "se": [
+      "kunde"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "count",
+    "se": [
+      "räkna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "counts",
+    "se": [
+      "räknar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "course",
+    "se": [
+      "kurs"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cousin",
+    "se": [
+      "kusin"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "cow",
+    "se": [
+      "ko"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cozy",
+    "se": [
+      "myser",
+      "mysig",
+      "mysigt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "crab",
+    "se": [
+      "krabba"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "crawfish",
+    "se": [
+      "kräftor"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "crayfish",
+    "se": [
+      "kräfta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "crazy",
+    "se": [
+      "galen",
+      "galna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cries",
+    "se": [
+      "gråter"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "crispbread",
+    "se": [
+      "knäckebröd"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "crowns",
+    "se": [
+      "kronor"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "culture",
+    "se": [
+      "kultur"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cultures",
+    "se": [
+      "kulturer"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cup",
+    "se": [
+      "kopp"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "curtains",
+    "se": [
+      "gardiner"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cut",
+    "se": [
+      "skurit",
+      "skära"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "cuts",
+    "se": [
+      "klipper"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "dad",
+    "se": [
+      "pappa"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "daddy",
+    "se": [
+      "pappas"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "dangerous",
+    "se": [
+      "farlig"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "danish",
+    "se": [
+      "dansk"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "dark",
+    "se": [
+      "mörk"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "darkness",
+    "se": [
+      "mörker"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "date",
+    "se": [
+      "datum"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "daughter",
+    "se": [
+      "dotter"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "daughters",
+    "se": [
+      "döttrar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "day",
+    "se": [
+      "dag",
+      "dygn"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "days",
+    "se": [
+      "dagar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "dear",
+    "se": [
+      "kära"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "decades",
+    "se": [
+      "årtionden"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "december",
+    "se": [
+      "december"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "decided",
+    "se": [
+      "bestämde"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "decision",
+    "se": [
+      "beslut"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "deep",
+    "se": [
+      "djupa",
+      "djupt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "definitely",
+    "se": [
+      "definitivt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "denmark",
+    "se": [
+      "danmark",
+      "danmarks"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "depth",
+    "se": [
+      "djup"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "description",
+    "se": [
+      "beskrivning"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "design",
+    "se": [
+      "design"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "desire",
+    "se": [
+      "önskar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "desk",
+    "se": [
+      "skrivbord"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "despite",
+    "se": [
+      "trots"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "desto",
+    "se": [
+      "desto"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "determine",
+    "se": [
+      "bestämma"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "develop",
+    "se": [
+      "utveckla"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "developed",
+    "se": [
+      "utvecklat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "did",
+    "se": [
+      "gjorde"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "die",
+    "se": [
+      "dö"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "died",
+    "se": [
+      "dog",
+      "dött"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "dies",
+    "se": [
+      "dör"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "difficulties",
+    "se": [
+      "svårigheter"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "difficulty",
+    "se": [
+      "svårighet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "dina",
+    "se": [
+      "dina"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "dinner",
+    "se": [
+      "middagen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "disadvantages",
+    "se": [
+      "nackdelar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "discovered",
+    "se": [
+      "upptäckt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "dived",
+    "se": [
+      "dök"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "do",
+    "se": [
+      "göra"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "document",
+    "se": [
+      "dokument"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "dog",
+    "se": [
+      "hund"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "dogs",
+    "se": [
+      "hundar",
+      "hunds"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "done",
+    "se": [
+      "gjort"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "dot",
+    "se": [
+      "prick"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "down",
+    "se": [
+      "ner",
+      "nere"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "drag",
+    "se": [
+      "dra"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "drank",
+    "se": [
+      "drack"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "draw",
+    "se": [
+      "rita"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "drawn",
+    "se": [
+      "ritade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "draws",
+    "se": [
+      "ritar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "dream",
+    "se": [
+      "dröm"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "dress",
+    "se": [
+      "klänning"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "dresses",
+    "se": [
+      "klänningar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "dried",
+    "se": [
+      "torkade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "drink",
+    "se": [
+      "dricka",
+      "dricker"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "drive",
+    "se": [
+      "kör"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "dropped",
+    "se": [
+      "tappade",
+      "tappat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "drops",
+    "se": [
+      "tappar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "drove",
+    "se": [
+      "körde"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "drums",
+    "se": [
+      "trummor"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "drunk",
+    "se": [
+      "druckit"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "dry",
+    "se": [
+      "torka",
+      "torrt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "duck",
+    "se": [
+      "anka"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "ducks",
+    "se": [
+      "ankor"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "during",
+    "se": [
+      "under"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "dying",
+    "se": [
+      "döende"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "each",
+    "se": [
+      "varje"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "each other",
+    "se": [
+      "varandra"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "east",
+    "se": [
+      "öster"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "easy",
+    "se": [
+      "enkelt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "eat",
+    "se": [
+      "ät",
+      "äta",
+      "äter"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "eaten",
+    "se": [
+      "uppäten",
+      "uppätna",
+      "ätit"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "effect",
+    "se": [
+      "effekt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "effective",
+    "se": [
+      "effektiva"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "egg",
+    "se": [
+      "ägg"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "eight",
+    "se": [
+      "åtta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "eighteen",
+    "se": [
+      "arton"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "eighth",
+    "se": [
+      "åttonde"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "eighty",
+    "se": [
+      "åttio"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "either",
+    "se": [
+      "antingen",
+      "heller"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "el",
+    "se": [
+      "el"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "elephant",
+    "se": [
+      "elefant",
+      "elefanten"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "elephants",
+    "se": [
+      "elefanter"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "eleven",
+    "se": [
+      "elva"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "end",
+    "se": [
+      "avsluta",
+      "slutet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "ende",
+    "se": [
+      "ende"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "ended up",
+    "se": [
+      "hamnade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "ends",
+    "se": [
+      "slutar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "enemy",
+    "se": [
+      "fiende"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "english",
+    "se": [
+      "engelska"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "enough",
+    "se": [
+      "räcker",
+      "tillräckligt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "equal",
+    "se": [
+      "lika"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "equipment",
+    "se": [
+      "utrustning"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "er",
+    "se": [
+      "ert"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "era",
+    "se": [
+      "era"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "essay",
+    "se": [
+      "uppsats"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "even",
+    "se": [
+      "ens"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "evening",
+    "se": [
+      "kväll"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "ever",
+    "se": [
+      "någonsin"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "everything",
+    "se": [
+      "allting"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "evidence",
+    "se": [
+      "bevis"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "excellent",
+    "se": [
+      "utmärkt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "except",
+    "se": [
+      "utom"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "excuse",
+    "se": [
+      "ursäkta"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "exercise",
+    "se": [
+      "övning"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "exercises",
+    "se": [
+      "övningar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "existed",
+    "se": [
+      "fanns",
+      "funnits"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "expensive",
+    "se": [
+      "dyr",
+      "dyrt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "explained",
+    "se": [
+      "förklarade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "explanation",
+    "se": [
+      "förklaring"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "fail",
+    "se": [
+      "misslyckas"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "failed",
+    "se": [
+      "misslyckat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "family",
+    "se": [
+      "familj"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "famous",
+    "se": [
+      "berömda"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "far",
+    "se": [
+      "långt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "farmers",
+    "se": [
+      "bönder"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "farmhouse",
+    "se": [
+      "bondgård"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "farmhouses",
+    "se": [
+      "bondgårdar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "farthest",
+    "se": [
+      "längst"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "fast",
+    "se": [
+      "fort",
+      "snabb",
+      "snabba"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "fasters",
+    "se": [
+      "fastrar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "father",
+    "se": [
+      "far"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "fathers",
+    "se": [
+      "fäder"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "february",
+    "se": [
+      "februari"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "feel",
+    "se": [
+      "känna",
+      "känner",
+      "mår"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "feelings",
+    "se": [
+      "känslor"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "feels",
+    "se": [
+      "känns"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "fell",
+    "se": [
+      "föll"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "felt",
+    "se": [
+      "kände",
+      "kändes"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "fifteen",
+    "se": [
+      "femton"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "fifth",
+    "se": [
+      "femte"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "fifty",
+    "se": [
+      "femtio"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "figures",
+    "se": [
+      "fikar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "fill",
+    "se": [
+      "fylla"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "filling",
+    "se": [
+      "fyller"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "final",
+    "se": [
+      "slut"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "finally",
+    "se": [
+      "äntligen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "find",
+    "se": [
+      "leta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "finds",
+    "se": [
+      "hittar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "finer",
+    "se": [
+      "finare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "finger",
+    "se": [
+      "finger"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "finished",
+    "se": [
+      "färdig"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "finland",
+    "se": [
+      "finland"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "finnish",
+    "se": [
+      "finländsk",
+      "finska"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "finnish swedes",
+    "se": [
+      "finlandssvenskar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "fire-fighter",
+    "se": [
+      "brandman"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "firefighters",
+    "se": [
+      "brandmän"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "fish",
+    "se": [
+      "fisk",
+      "fiskar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "fit",
+    "se": [
+      "passa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "fits",
+    "se": [
+      "passar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "five",
+    "se": [
+      "fem"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "flag",
+    "se": [
+      "flagga"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "flew",
+    "se": [
+      "flög"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "floor",
+    "se": [
+      "våning"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "flute",
+    "se": [
+      "flöjt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "fly",
+    "se": [
+      "flyga"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "flying",
+    "se": [
+      "flygande",
+      "flyger"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "follow",
+    "se": [
+      "följ",
+      "följa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "followed",
+    "se": [
+      "följde",
+      "följt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "follows",
+    "se": [
+      "följer"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "food",
+    "se": [
+      "mat"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "for",
+    "se": [
+      "för"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "forced",
+    "se": [
+      "tvungna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "forget",
+    "se": [
+      "glömma"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "forgiven",
+    "se": [
+      "förlät"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "forgot",
+    "se": [
+      "glömde",
+      "glömt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "fork",
+    "se": [
+      "gaffel"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "form",
+    "se": [
+      "form"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "forty",
+    "se": [
+      "fyrtio"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "forward",
+    "se": [
+      "framåt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "found",
+    "se": [
+      "hittade",
+      "hittat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "four",
+    "se": [
+      "fyra"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "fourteen",
+    "se": [
+      "fjorton"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "fourth",
+    "se": [
+      "fjärde"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "france",
+    "se": [
+      "frankrike",
+      "frankrikes"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "free",
+    "se": [
+      "gratis",
+      "ledig"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "freezes",
+    "se": [
+      "fryser"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "french",
+    "se": [
+      "fransk"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "frog",
+    "se": [
+      "groda"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "from",
+    "se": [
+      "från",
+      "ur"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "front",
+    "se": [
+      "fram"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "frozen",
+    "se": [
+      "frus"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "fruit",
+    "se": [
+      "frukt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "full",
+    "se": [
+      "full",
+      "fulla"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "fully",
+    "se": [
+      "fullt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "fult",
+    "se": [
+      "fult"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "fun",
+    "se": [
+      "kul",
+      "roliga"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "functioning",
+    "se": [
+      "fungerande"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "funny",
+    "se": [
+      "rolig",
+      "roligt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "furniture",
+    "se": [
+      "möbler"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "further",
+    "se": [
+      "längre"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "future",
+    "se": [
+      "blivande"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "gave",
+    "se": [
+      "gav"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "ger",
+    "se": [
+      "ger"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "german",
+    "se": [
+      "tysk",
+      "tyska"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "germany's",
+    "se": [
+      "tysklands"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "get",
+    "se": [
+      "få",
+      "får"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "ghosts",
+    "se": [
+      "spöken"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "girl",
+    "se": [
+      "flicka"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "girlfriend",
+    "se": [
+      "flickvän"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "girls",
+    "se": [
+      "flickor"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "give",
+    "se": [
+      "ge"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "given",
+    "se": [
+      "gett"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "gladly",
+    "se": [
+      "gärna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "glass",
+    "se": [
+      "glas"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "glove",
+    "se": [
+      "handske"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "gloves",
+    "se": [
+      "handskar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "go",
+    "se": [
+      "gå",
+      "åka"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "goal",
+    "se": [
+      "mål"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "god",
+    "se": [
+      "gud"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "goddess",
+    "se": [
+      "gudinna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "going",
+    "se": [
+      "går"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "golden",
+    "se": [
+      "gyllene"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "golf",
+    "se": [
+      "golf"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "gone",
+    "se": [
+      "gått"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "good",
+    "se": [
+      "bra",
+      "god"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "got",
+    "se": [
+      "fick",
+      "fått"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "gothenburg",
+    "se": [
+      "göteborg"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "government",
+    "se": [
+      "regering"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "grade",
+    "se": [
+      "betyg"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "grandchild",
+    "se": [
+      "barnbarn"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "grandfather",
+    "se": [
+      "farfar",
+      "morfar",
+      "morfars",
+      "svärfar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "grandmother",
+    "se": [
+      "farmor",
+      "mormor"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "grass",
+    "se": [
+      "gräs"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "gray",
+    "se": [
+      "grå"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "greece",
+    "se": [
+      "grekland",
+      "greklands"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "green",
+    "se": [
+      "grön",
+      "grönt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "group",
+    "se": [
+      "grupp"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "guard",
+    "se": [
+      "vakt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "guy",
+    "se": [
+      "kille"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "gypsy",
+    "se": [
+      "rom"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "had",
+    "se": [
+      "hade",
+      "haft"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "hair",
+    "se": [
+      "hår"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "half",
+    "se": [
+      "halva",
+      "halvt",
+      "hälften"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "handed",
+    "se": [
+      "räckte"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "hang",
+    "se": [
+      "hänga"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "hanging",
+    "se": [
+      "hängande"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "happen",
+    "se": [
+      "hända"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "happened",
+    "se": [
+      "hände"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "happiness",
+    "se": [
+      "lycka",
+      "lyckan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "happy",
+    "se": [
+      "glad",
+      "glada",
+      "lyckligt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "hardly",
+    "se": [
+      "knappast"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "hat",
+    "se": [
+      "hatt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "hate",
+    "se": [
+      "hatar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "hats",
+    "se": [
+      "hattar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "have",
+    "se": [
+      "ha",
+      "har"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "have time to",
+    "se": [
+      "hinner"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "he",
+    "se": [
+      "han"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "hear",
+    "se": [
+      "hör",
+      "höra"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "heard",
+    "se": [
+      "hörde",
+      "hört"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "heavy",
+    "se": [
+      "tungt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "held",
+    "se": [
+      "höll"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "hello",
+    "se": [
+      "hallå",
+      "hej"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "help",
+    "se": [
+      "hjälp",
+      "hjälpa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "helped",
+    "se": [
+      "hjälpte"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "helps",
+    "se": [
+      "hjälper"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "helsinki",
+    "se": [
+      "helsingfors"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "her",
+    "se": [
+      "henne",
+      "hennes"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "here",
+    "se": [
+      "hit",
+      "här"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "him",
+    "se": [
+      "honom"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "his",
+    "se": [
+      "hans",
+      "sitt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "hold",
+    "se": [
+      "håll"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "holding",
+    "se": [
+      "håller"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "holiday",
+    "se": [
+      "helgdag"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "holidays",
+    "se": [
+      "helgdagar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "holy",
+    "se": [
+      "helige"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "home",
+    "se": [
+      "hem"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "hope",
+    "se": [
+      "hopp",
+      "hoppas",
+      "hoppet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "hoped",
+    "se": [
+      "hoppades"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "horrible",
+    "se": [
+      "hemsk",
+      "hemska"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "horse",
+    "se": [
+      "häst"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "horses",
+    "se": [
+      "hästar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "hour",
+    "se": [
+      "timme"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "house",
+    "se": [
+      "hus"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "how",
+    "se": [
+      "hur"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "however",
+    "se": [
+      "däremot"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "hugs",
+    "se": [
+      "kramar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "humor",
+    "se": [
+      "humor"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "hundred",
+    "se": [
+      "hundra"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "hundreds",
+    "se": [
+      "hundratals"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "hung",
+    "se": [
+      "hängde"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "hungry",
+    "se": [
+      "hungrig",
+      "hungriga",
+      "hungrigt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "hunting",
+    "se": [
+      "jagar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "hurry",
+    "se": [
+      "skynda",
+      "skyndar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "i",
+    "se": [
+      "jag"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "ice",
+    "se": [
+      "is"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "ice cream",
+    "se": [
+      "glass"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "iceland",
+    "se": [
+      "island"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "icelands",
+    "se": [
+      "islands"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "if",
+    "se": [
+      "om"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "immediately",
+    "se": [
+      "genast"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "import",
+    "se": [
+      "importera"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "impossible",
+    "se": [
+      "omöjlig"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "in",
+    "se": [
+      "i",
+      "in",
+      "inne"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "in addition",
+    "se": [
+      "dessutom"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "in front",
+    "se": [
+      "framför",
+      "framme"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "in love",
+    "se": [
+      "kär"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "in other words",
+    "se": [
+      "alltså"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "in total",
+    "se": [
+      "sammanlagt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "independently",
+    "se": [
+      "självständigt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "infant",
+    "se": [
+      "spädbarn"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "inferior",
+    "se": [
+      "sämre"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "inside",
+    "se": [
+      "insidan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "instead",
+    "se": [
+      "i stället"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "interested",
+    "se": [
+      "intresserad"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "interests",
+    "se": [
+      "intressen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "interpreter",
+    "se": [
+      "tolk"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "interrogated",
+    "se": [
+      "förhörda"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "interviewing",
+    "se": [
+      "intervjuar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "investment",
+    "se": [
+      "investering"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "invite",
+    "se": [
+      "bjuda"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "invited",
+    "se": [
+      "inbjuden"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "is",
+    "se": [
+      "är"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "is criticized",
+    "se": [
+      "kritiseras"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "is located",
+    "se": [
+      "ligger"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "is selected",
+    "se": [
+      "väljs"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "is taken",
+    "se": [
+      "fattas"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "island",
+    "se": [
+      "ö"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "italy",
+    "se": [
+      "italien"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "its",
+    "se": [
+      "dess",
+      "sin"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "jacket",
+    "se": [
+      "jacka"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "jackets",
+    "se": [
+      "jackor"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "january",
+    "se": [
+      "januari"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "job",
+    "se": [
+      "jobb"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "journalist",
+    "se": [
+      "journalist"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "joy",
+    "se": [
+      "glädje"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "juice",
+    "se": [
+      "juice",
+      "saft"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "july",
+    "se": [
+      "juli"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "jump",
+    "se": [
+      "hoppa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "jumped",
+    "se": [
+      "hoppade",
+      "hoppat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "jumps",
+    "se": [
+      "hoppar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "june",
+    "se": [
+      "juni"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "just",
+    "se": [
+      "precis"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "keep",
+    "se": [
+      "hålla"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "kill",
+    "se": [
+      "döda"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "kind",
+    "se": [
+      "snäll",
+      "sorts"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "king",
+    "se": [
+      "kung"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "kiss",
+    "se": [
+      "kyssa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "kissing",
+    "se": [
+      "kysser"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "kitchen",
+    "se": [
+      "kök"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "knew",
+    "se": [
+      "visste"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "knife",
+    "se": [
+      "kniv"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "know",
+    "se": [
+      "vet",
+      "vetat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "knowledge",
+    "se": [
+      "kunskap",
+      "kunskapen",
+      "kunskaper"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "known",
+    "se": [
+      "känt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "lace",
+    "se": [
+      "snöre"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "laid",
+    "se": [
+      "lade",
+      "lagt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "lake",
+    "se": [
+      "sjön"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "lamb",
+    "se": [
+      "lamm"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "large",
+    "se": [
+      "stort"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "last",
+    "se": [
+      "förra",
+      "förrförra",
+      "sist",
+      "sista"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "late",
+    "se": [
+      "sent"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "later",
+    "se": [
+      "senare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "laugh",
+    "se": [
+      "skratt",
+      "skratta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "laughing",
+    "se": [
+      "skrattar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "laws",
+    "se": [
+      "lagar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "lay",
+    "se": [
+      "lägga"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "learn",
+    "se": [
+      "lär"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "learned",
+    "se": [
+      "lärde",
+      "lärt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "leave",
+    "se": [
+      "lämna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "leaving",
+    "se": [
+      "lämnar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "lectures",
+    "se": [
+      "föreläsningar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "left",
+    "se": [
+      "lämnade",
+      "lämnat",
+      "vänstra"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "lemon",
+    "se": [
+      "citron"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "less",
+    "se": [
+      "mindre"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "lesson",
+    "se": [
+      "lektion",
+      "läxa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "let",
+    "se": [
+      "låt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "level",
+    "se": [
+      "nivå"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "life",
+    "se": [
+      "livet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "light",
+    "se": [
+      "ljus",
+      "lätt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "lighten",
+    "se": [
+      "lätta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "like",
+    "se": [
+      "gillar",
+      "lik"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "liked",
+    "se": [
+      "liknade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "line",
+    "se": [
+      "linje"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "listen",
+    "se": [
+      "lyssna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "listened",
+    "se": [
+      "lyssnade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "listens",
+    "se": [
+      "lyssnar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "little",
+    "se": [
+      "lille"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "live",
+    "se": [
+      "leva",
+      "levande"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "lived",
+    "se": [
+      "bodde",
+      "levde",
+      "levt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "liver",
+    "se": [
+      "lever"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "lizard",
+    "se": [
+      "ödlan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "long",
+    "se": [
+      "lång",
+      "långa",
+      "långe",
+      "länge"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "longest",
+    "se": [
+      "längsta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "look",
+    "se": [
+      "titta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "looked",
+    "se": [
+      "tittade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "looking",
+    "se": [
+      "letar",
+      "tittar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "looks",
+    "se": [
+      "ser"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "lose",
+    "se": [
+      "förlora",
+      "tappa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "losing",
+    "se": [
+      "förlorar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "lost",
+    "se": [
+      "förlorade",
+      "förlorat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "love",
+    "se": [
+      "kärlek",
+      "älska",
+      "älskar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "loved",
+    "se": [
+      "älskade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "low",
+    "se": [
+      "låg"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "lower",
+    "se": [
+      "sänk"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "lucky",
+    "se": [
+      "tur"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "lunch",
+    "se": [
+      "lunch",
+      "lunchen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "lying down",
+    "se": [
+      "liggande"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "mail",
+    "se": [
+      "brev"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "major",
+    "se": [
+      "större"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "makes",
+    "se": [
+      "gör"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "malmö",
+    "se": [
+      "malmö"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "man",
+    "se": [
+      "man"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "manufactures",
+    "se": [
+      "tillverkar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "many",
+    "se": [
+      "många"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "market",
+    "se": [
+      "marknad"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "married",
+    "se": [
+      "gifta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "matter",
+    "se": [
+      "ärende"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "mayor",
+    "se": [
+      "borgmästare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "me",
+    "se": [
+      "mig"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "meal",
+    "se": [
+      "måltid"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "mean",
+    "se": [
+      "betyder"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "measure",
+    "se": [
+      "mäta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "measures",
+    "se": [
+      "mäter"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "meat",
+    "se": [
+      "kött"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "meat-ball",
+    "se": [
+      "köttbulle"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "meet",
+    "se": [
+      "möt",
+      "möta",
+      "träffa",
+      "träffas"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "meeting",
+    "se": [
+      "möter"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "melancholy",
+    "se": [
+      "vemod"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "member",
+    "se": [
+      "medlem"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "members",
+    "se": [
+      "medlemmar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "men",
+    "se": [
+      "män"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "menu",
+    "se": [
+      "meny"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "met",
+    "se": [
+      "träffat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "meter",
+    "se": [
+      "meter"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "midsummer",
+    "se": [
+      "midsommar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "milk",
+    "se": [
+      "mjölk"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "minded",
+    "se": [
+      "mindes"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "mine",
+    "se": [
+      "mina"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "minute",
+    "se": [
+      "minut"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "minutes",
+    "se": [
+      "minuter"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "mirror",
+    "se": [
+      "spegel"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "miss",
+    "se": [
+      "sakna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "missed",
+    "se": [
+      "saknat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "misses",
+    "se": [
+      "missar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "missing",
+    "se": [
+      "saknar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "mix",
+    "se": [
+      "blanda"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "model",
+    "se": [
+      "modell"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "moment",
+    "se": [
+      "ögonblick"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "mondays",
+    "se": [
+      "måndagar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "month",
+    "se": [
+      "månad"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "months",
+    "se": [
+      "månader"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "moose",
+    "se": [
+      "älg"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "more",
+    "se": [
+      "fler",
+      "mer"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "more beautiful",
+    "se": [
+      "vackrare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "more common",
+    "se": [
+      "vanligare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "more difficult",
+    "se": [
+      "svårare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "more expensive",
+    "se": [
+      "dyrare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "more important",
+    "se": [
+      "viktigare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "more interesting",
+    "se": [
+      "intressantare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "more often",
+    "se": [
+      "oftare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "morning",
+    "se": [
+      "morgon"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "mosquito",
+    "se": [
+      "mygga"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "most",
+    "se": [
+      "flesta",
+      "mest"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "most important",
+    "se": [
+      "viktigaste"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "most often",
+    "se": [
+      "oftast"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "mother",
+    "se": [
+      "mamma"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "mother -in -law",
+    "se": [
+      "svärmor"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "moved",
+    "se": [
+      "flyttas"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "murder",
+    "se": [
+      "mord"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "museum",
+    "se": [
+      "museum"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "must",
+    "se": [
+      "måste"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "my",
+    "se": [
+      "min",
+      "mitt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "nails",
+    "se": [
+      "naglarna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "national",
+    "se": [
+      "medborgare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "national day",
+    "se": [
+      "nationaldag",
+      "nationaldagen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "nature",
+    "se": [
+      "natur"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "near",
+    "se": [
+      "nära"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "necessarily",
+    "se": [
+      "nödvändigtvis"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "necessary",
+    "se": [
+      "nödvändigt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "neckwear",
+    "se": [
+      "halsdukar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "need",
+    "se": [
+      "behöva"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "needed",
+    "se": [
+      "behövde"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "neither",
+    "se": [
+      "ingendera",
+      "varken"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "nervous",
+    "se": [
+      "nervös"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "netherlands",
+    "se": [
+      "nederländerna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "never",
+    "se": [
+      "aldrig"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "new",
+    "se": [
+      "nya"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "new year",
+    "se": [
+      "nyår"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "newer",
+    "se": [
+      "nyare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "news",
+    "se": [
+      "nyheter"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "newspaper",
+    "se": [
+      "tidning"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "newspapers",
+    "se": [
+      "tidningar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "next",
+    "se": [
+      "nästa"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "nice",
+    "se": [
+      "snygge",
+      "trevligt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "night",
+    "se": [
+      "natt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "nine",
+    "se": [
+      "nio"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "nineteen",
+    "se": [
+      "nitton"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "nineteenth century",
+    "se": [
+      "nittonhundratalet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "nineties",
+    "se": [
+      "nittiotalet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "ninety",
+    "se": [
+      "nittio"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "ninth",
+    "se": [
+      "nionde"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "no",
+    "se": [
+      "inga",
+      "ingen",
+      "nej"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "noisette",
+    "se": [
+      "köttbullar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "north",
+    "se": [
+      "norra"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "north america",
+    "se": [
+      "nordamerika"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "northern europe",
+    "se": [
+      "nordeuropa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "northern norway",
+    "se": [
+      "nordnorge"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "not",
+    "se": [
+      "inte"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "not possible",
+    "se": [
+      "omöjligt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "note",
+    "se": [
+      "anteckning"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "notes",
+    "se": [
+      "anteckningar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "nothing",
+    "se": [
+      "ingenting",
+      "inget"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "novel",
+    "se": [
+      "roman"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "november",
+    "se": [
+      "november"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "now",
+    "se": [
+      "nu"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "number",
+    "se": [
+      "nummer"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "obstruct",
+    "se": [
+      "hindra"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "october",
+    "se": [
+      "oktober"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "of",
+    "se": [
+      "av"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "offered",
+    "se": [
+      "bjöd"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "offers",
+    "se": [
+      "bjuder"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "official",
+    "se": [
+      "officiell",
+      "officiella"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "officially",
+    "se": [
+      "officiellt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "often",
+    "se": [
+      "ofta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "oil",
+    "se": [
+      "olja"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "old",
+    "se": [
+      "gamla",
+      "gammal",
+      "gammalt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "older",
+    "se": [
+      "äldre"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "oldest",
+    "se": [
+      "äldsta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "on",
+    "se": [
+      "på"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "one",
+    "se": [
+      "en",
+      "ett",
+      "sig"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "onion",
+    "se": [
+      "lök"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "only",
+    "se": [
+      "bara"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "open",
+    "se": [
+      "öppen",
+      "öppna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "opened",
+    "se": [
+      "öppnade",
+      "öppnat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "opens",
+    "se": [
+      "öppnar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "opinions",
+    "se": [
+      "åsikter"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "or",
+    "se": [
+      "eller"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "orange",
+    "se": [
+      "apelsin",
+      "orange"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "order",
+    "se": [
+      "order"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "other",
+    "se": [
+      "andra",
+      "annan",
+      "annat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "otherwise",
+    "se": [
+      "annars"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "ours",
+    "se": [
+      "våra",
+      "vårt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "out",
+    "se": [
+      "ut",
+      "ute"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "outside",
+    "se": [
+      "utanför"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "over",
+    "se": [
+      "över"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "owl",
+    "se": [
+      "uggla",
+      "ugglan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "own",
+    "se": [
+      "eget",
+      "egna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "page",
+    "se": [
+      "sida"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "paid",
+    "se": [
+      "betalade",
+      "betalat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "palace",
+    "se": [
+      "palats"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "pans",
+    "se": [
+      "kastruller"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "pants",
+    "se": [
+      "byxor"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "pared",
+    "se": [
+      "ställde"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "parent",
+    "se": [
+      "förälder"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "parents",
+    "se": [
+      "föräldrar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "particularly",
+    "se": [
+      "särskilt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "partner",
+    "se": [
+      "sambo"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "parts",
+    "se": [
+      "delar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "party",
+    "se": [
+      "fest",
+      "parti"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "pass",
+    "se": [
+      "pass"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "passes",
+    "se": [
+      "passerar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "past",
+    "se": [
+      "förbi"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "pasta",
+    "se": [
+      "pasta",
+      "pastan"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "pay",
+    "se": [
+      "betala"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "pays",
+    "se": [
+      "betalar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "peace",
+    "se": [
+      "frid"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "peaceful",
+    "se": [
+      "fridfull",
+      "fridfulla",
+      "fridfullt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "peasant",
+    "se": [
+      "bonde"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "people",
+    "se": [
+      "folk"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "pepper",
+    "se": [
+      "peppar",
+      "pepparn"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "per",
+    "se": [
+      "per"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "perfect",
+    "se": [
+      "perfekt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "perhaps",
+    "se": [
+      "kanske"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "period",
+    "se": [
+      "period"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "personal",
+    "se": [
+      "personlig",
+      "personligt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "philosophy",
+    "se": [
+      "filosofi"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "picture",
+    "se": [
+      "bild"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "pieces",
+    "se": [
+      "stycken"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "pillow",
+    "se": [
+      "kudde"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "pink",
+    "se": [
+      "rosa"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "place",
+    "se": [
+      "lägg",
+      "plats",
+      "ställe"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "places",
+    "se": [
+      "ställer"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "plain",
+    "se": [
+      "vanligt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "plan",
+    "se": [
+      "plan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "planet",
+    "se": [
+      "planet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "plate",
+    "se": [
+      "tallrik"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "plates",
+    "se": [
+      "tallrikar",
+      "tallrikarna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "play",
+    "se": [
+      "lek",
+      "leka"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "played",
+    "se": [
+      "lekt",
+      "lekte"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "playing",
+    "se": [
+      "lekande",
+      "leker"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "please",
+    "se": [
+      "snälla"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "plus",
+    "se": [
+      "plus"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "poland",
+    "se": [
+      "polen",
+      "polens"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "police",
+    "se": [
+      "polis"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "policy",
+    "se": [
+      "politik"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "pool",
+    "se": [
+      "pool"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "poor",
+    "se": [
+      "fattigt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "popular",
+    "se": [
+      "populära"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "popularly",
+    "se": [
+      "populärt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "population",
+    "se": [
+      "befolkning"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "pork",
+    "se": [
+      "fläskkött"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "port",
+    "se": [
+      "hamn"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "possible",
+    "se": [
+      "möjligt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "possibly",
+    "se": [
+      "möjligtvis"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "potato",
+    "se": [
+      "potatis"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "powder",
+    "se": [
+      "pulver"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "praise",
+    "se": [
+      "hylla"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "prayers",
+    "se": [
+      "böner"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "preferably",
+    "se": [
+      "helst"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "prepares",
+    "se": [
+      "förbereder"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "present",
+    "se": [
+      "närvarande",
+      "presentera"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "presentation",
+    "se": [
+      "presentation"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "presented",
+    "se": [
+      "presenterade",
+      "presenterat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "presents",
+    "se": [
+      "presenterar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "president",
+    "se": [
+      "ordförande"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "priest",
+    "se": [
+      "präst"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "prince",
+    "se": [
+      "prins"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "princess",
+    "se": [
+      "prinsessa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "printed",
+    "se": [
+      "tryckt",
+      "tryckta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "prison",
+    "se": [
+      "fängelse"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "private",
+    "se": [
+      "privata"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "probably",
+    "se": [
+      "nog"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "problem",
+    "se": [
+      "problem"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "profession",
+    "se": [
+      "yrke"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "professor's",
+    "se": [
+      "professorns"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "profile",
+    "se": [
+      "profil"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "project",
+    "se": [
+      "projekt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "property",
+    "se": [
+      "egendom"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "public",
+    "se": [
+      "allmänhet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "pupil",
+    "se": [
+      "elev"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "purchased",
+    "se": [
+      "köpt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "purely",
+    "se": [
+      "rent"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "purple",
+    "se": [
+      "lila"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "purpose",
+    "se": [
+      "syfte"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "put",
+    "se": [
+      "ställa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "puts",
+    "se": [
+      "sätter"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "quantities",
+    "se": [
+      "mängder"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "quantity",
+    "se": [
+      "antal"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "quarter",
+    "se": [
+      "kvart"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "question",
+    "se": [
+      "fråga"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "quickly",
+    "se": [
+      "snabbt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "quilt",
+    "se": [
+      "täcke"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "quit",
+    "se": [
+      "slutat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "quite",
+    "se": [
+      "ganska"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "rain",
+    "se": [
+      "regna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "rained",
+    "se": [
+      "regnade",
+      "regnat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "rains",
+    "se": [
+      "regnar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "raised",
+    "se": [
+      "höjas",
+      "höjs"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "ran",
+    "se": [
+      "sprang"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "rarely",
+    "se": [
+      "sällan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "read",
+    "se": [
+      "läs",
+      "läst",
+      "läste"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "reads",
+    "se": [
+      "läser"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "real",
+    "se": [
+      "riktiga"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "reality",
+    "se": [
+      "verklighet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "really",
+    "se": [
+      "riktigt",
+      "verkligen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "recently",
+    "se": [
+      "nyligen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "red",
+    "se": [
+      "röd",
+      "rött"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "red wine",
+    "se": [
+      "rödvinet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "region",
+    "se": [
+      "region"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "religious",
+    "se": [
+      "religiös"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "remember",
+    "se": [
+      "ihåg",
+      "minns"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "rent",
+    "se": [
+      "hyr"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "rented",
+    "se": [
+      "hyrde"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "repeat",
+    "se": [
+      "repetera",
+      "upprepa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "replied",
+    "se": [
+      "svarade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "report",
+    "se": [
+      "rapport"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "requires",
+    "se": [
+      "behöver"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "research",
+    "se": [
+      "forska"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "reserve",
+    "se": [
+      "boka"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "respect",
+    "se": [
+      "respektera"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "respects",
+    "se": [
+      "respekterar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "respond",
+    "se": [
+      "svara"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "response",
+    "se": [
+      "svar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "responsibility",
+    "se": [
+      "ansvar",
+      "ansvaret"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "rest",
+    "se": [
+      "vila"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "rested",
+    "se": [
+      "vilade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "resting",
+    "se": [
+      "vilar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "results",
+    "se": [
+      "resultat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "retained",
+    "se": [
+      "behöll"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "rewarding",
+    "se": [
+      "givande"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "rice",
+    "se": [
+      "ris"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "rich",
+    "se": [
+      "rika"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "richer",
+    "se": [
+      "rikare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "ride",
+    "se": [
+      "åk",
+      "åkt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "right",
+    "se": [
+      "höger"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "ring",
+    "se": [
+      "ring"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "role",
+    "se": [
+      "roll"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "roller",
+    "se": [
+      "roller"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "round",
+    "se": [
+      "rund"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "rung",
+    "se": [
+      "ringt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "running",
+    "se": [
+      "spring",
+      "springande"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "runs",
+    "se": [
+      "springer"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "russian",
+    "se": [
+      "rysk",
+      "ryska",
+      "ryskt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sad",
+    "se": [
+      "ledsna",
+      "sorglig",
+      "sorgliga",
+      "sorgligt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sadness",
+    "se": [
+      "vemodet",
+      "vemodigt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "safe",
+    "se": [
+      "säkert"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "said",
+    "se": [
+      "sagt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "salmon",
+    "se": [
+      "lax"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "salt",
+    "se": [
+      "salt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "same",
+    "se": [
+      "same"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sami",
+    "se": [
+      "samer",
+      "samiska"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sample",
+    "se": [
+      "prov"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sand",
+    "se": [
+      "sanden"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sandwich",
+    "se": [
+      "smörgås"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "sandwiches",
+    "se": [
+      "smörgåsar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "sang",
+    "se": [
+      "sjöng"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sat",
+    "se": [
+      "satt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "satisfied",
+    "se": [
+      "nöjd"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "saturday",
+    "se": [
+      "lördag"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "saucepan",
+    "se": [
+      "kastrull"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sausage",
+    "se": [
+      "korv"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "save",
+    "se": [
+      "rädda"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "saves",
+    "se": [
+      "räddar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "saw",
+    "se": [
+      "såg"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "say",
+    "se": [
+      "säga"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "says",
+    "se": [
+      "säger"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "scandinavia",
+    "se": [
+      "skandinavien"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "scarf",
+    "se": [
+      "halsduk"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "school",
+    "se": [
+      "skola"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "screen",
+    "se": [
+      "skärm",
+      "skärmen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "searched",
+    "se": [
+      "letade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "second",
+    "se": [
+      "sekund"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "secure",
+    "se": [
+      "säkra"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "see",
+    "se": [
+      "se"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "seemed",
+    "se": [
+      "verkade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "seems",
+    "se": [
+      "verkar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "seen",
+    "se": [
+      "ses",
+      "sett"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "select",
+    "se": [
+      "välja"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "selected",
+    "se": [
+      "valt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "selects",
+    "se": [
+      "väljer"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "self",
+    "se": [
+      "själv"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sell",
+    "se": [
+      "sälj",
+      "sälja"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sells",
+    "se": [
+      "säljer"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "sends",
+    "se": [
+      "skickar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sensitive",
+    "se": [
+      "känslig",
+      "känsliga"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sent",
+    "se": [
+      "skickat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "september",
+    "se": [
+      "september"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "seriously",
+    "se": [
+      "allvarligt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "serves",
+    "se": [
+      "serverar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "service",
+    "se": [
+      "tjänst"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "set",
+    "se": [
+      "ställ"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "seven",
+    "se": [
+      "sju"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "seventeen",
+    "se": [
+      "sjutton"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "seventh",
+    "se": [
+      "sjunde"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "seventy",
+    "se": [
+      "sjuttio"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "several",
+    "se": [
+      "flera"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "she",
+    "se": [
+      "hon"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "sheets",
+    "se": [
+      "lakan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "shirt",
+    "se": [
+      "skjorta"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "shirts",
+    "se": [
+      "skjortor"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "shoe",
+    "se": [
+      "sko",
+      "skon"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "short",
+    "se": [
+      "korta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "shortest",
+    "se": [
+      "kortaste"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "should",
+    "se": [
+      "borde"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "show",
+    "se": [
+      "visa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "showed",
+    "se": [
+      "visade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "showing",
+    "se": [
+      "visar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "siblings",
+    "se": [
+      "syskon"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "sick",
+    "se": [
+      "sjukt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "side",
+    "se": [
+      "sidan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "similar to it",
+    "se": [
+      "liknar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "simple",
+    "se": [
+      "enkel",
+      "enkla"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "since",
+    "se": [
+      "eftersom"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "sing",
+    "se": [
+      "sjung",
+      "sjunga"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sings",
+    "se": [
+      "sjunger"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "sister",
+    "se": [
+      "syster"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "sister -in -law",
+    "se": [
+      "svärson"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "sisters",
+    "se": [
+      "systrars"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "sit",
+    "se": [
+      "sitta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sitting",
+    "se": [
+      "sittande",
+      "sitter"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "six",
+    "se": [
+      "sex"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "six months",
+    "se": [
+      "halvår"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sixteen",
+    "se": [
+      "sexton"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sixth",
+    "se": [
+      "sjätte"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sixty",
+    "se": [
+      "sextio"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sleep",
+    "se": [
+      "sömn"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sleeping",
+    "se": [
+      "sov",
+      "sovande"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sleeps",
+    "se": [
+      "sover"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "slept",
+    "se": [
+      "sovit"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "slow",
+    "se": [
+      "långsamma"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "slowly",
+    "se": [
+      "långsamt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "small",
+    "se": [
+      "lilla",
+      "liten",
+      "litet",
+      "små"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "smiles",
+    "se": [
+      "ler"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "smorgasbord",
+    "se": [
+      "smörgåsbord"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "snow",
+    "se": [
+      "snöa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "snowing",
+    "se": [
+      "snöar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "so",
+    "se": [
+      "så"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "society",
+    "se": [
+      "samhälle"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "soft",
+    "se": [
+      "mjukt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sold",
+    "se": [
+      "sålde",
+      "sålt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "solution",
+    "se": [
+      "lösning"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "someone",
+    "se": [
+      "någon"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "something",
+    "se": [
+      "något"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sometimes",
+    "se": [
+      "ibland"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sons",
+    "se": [
+      "söner"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "soon",
+    "se": [
+      "snart"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sorry",
+    "se": [
+      "förlåt",
+      "ledsen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sorts",
+    "se": [
+      "sorters"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sound",
+    "se": [
+      "ljud",
+      "låta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sounded",
+    "se": [
+      "lät"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "soup",
+    "se": [
+      "soppa"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "south",
+    "se": [
+      "söder"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "southern europe",
+    "se": [
+      "sydeuropa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "spain",
+    "se": [
+      "spanien",
+      "spaniens"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "speak",
+    "se": [
+      "tala"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "speaking",
+    "se": [
+      "talande"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "speaks",
+    "se": [
+      "talar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "special",
+    "se": [
+      "särskild"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "speech",
+    "se": [
+      "tal"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "spent",
+    "se": [
+      "tillbringar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "spider",
+    "se": [
+      "spindel"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "spoke",
+    "se": [
+      "talade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "spoon",
+    "se": [
+      "sked"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "sports",
+    "se": [
+      "idrott"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "spring",
+    "se": [
+      "vår",
+      "våren"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "squirrels",
+    "se": [
+      "ekorrar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "stand",
+    "se": [
+      "stå"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "standed",
+    "se": [
+      "stått"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "stands",
+    "se": [
+      "står"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "start",
+    "se": [
+      "börja"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "started",
+    "se": [
+      "började"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "stay",
+    "se": [
+      "bo",
+      "stanna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "stayed",
+    "se": [
+      "stannat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "still",
+    "se": [
+      "fortfarande",
+      "ändå"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "stockholm",
+    "se": [
+      "stockholms"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "stocking",
+    "se": [
+      "strumpa"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "stolen",
+    "se": [
+      "stulen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "stood",
+    "se": [
+      "stod"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "stop",
+    "se": [
+      "hållplats",
+      "sluta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "stopped",
+    "se": [
+      "slutade",
+      "stannade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "stops",
+    "se": [
+      "stannar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "strange",
+    "se": [
+      "konstiga"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "strawberries",
+    "se": [
+      "jordgubbar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "strawberry",
+    "se": [
+      "jordgubbe"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "street",
+    "se": [
+      "gata"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "studying",
+    "se": [
+      "studerar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "subject",
+    "se": [
+      "ämne"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "subway",
+    "se": [
+      "tunnelbana"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "succeed",
+    "se": [
+      "lyckas"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "success",
+    "se": [
+      "framgång",
+      "framgångar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "such",
+    "se": [
+      "sådana",
+      "sådant"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "suddenly",
+    "se": [
+      "plötsligt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sugar",
+    "se": [
+      "socker",
+      "sockret"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "suggestions",
+    "se": [
+      "förslag"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "suit",
+    "se": [
+      "kostym"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "suitable",
+    "se": [
+      "passande"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "summer",
+    "se": [
+      "sommar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sunday",
+    "se": [
+      "söndag"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sung",
+    "se": [
+      "sjungit"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "superficial",
+    "se": [
+      "ytliga"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "support",
+    "se": [
+      "stötta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "supported",
+    "se": [
+      "stöttade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "supports",
+    "se": [
+      "stöttar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "sure",
+    "se": [
+      "säker"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "surprised",
+    "se": [
+      "överraskad"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "surprisingly",
+    "se": [
+      "överraskande"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "swam",
+    "se": [
+      "simmade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "swarves",
+    "se": [
+      "svärdotter"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "sweated",
+    "se": [
+      "svettades"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "sweater",
+    "se": [
+      "tröja"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "sweaters",
+    "se": [
+      "tröjor"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "sweden",
+    "se": [
+      "sverige"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "swedish",
+    "se": [
+      "svenska"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "sweet",
+    "se": [
+      "söt",
+      "söta",
+      "sött"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "swim",
+    "se": [
+      "simma",
+      "simmat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "swimming",
+    "se": [
+      "simmande"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "swims",
+    "se": [
+      "simmar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "swinging",
+    "se": [
+      "svänger"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "table",
+    "se": [
+      "bord"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "tail",
+    "se": [
+      "svans"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "take",
+    "se": [
+      "fatta",
+      "ta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "taken",
+    "se": [
+      "tagit"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "takes",
+    "se": [
+      "tar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "talk",
+    "se": [
+      "prata"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "talked",
+    "se": [
+      "pratade",
+      "pratat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "talking",
+    "se": [
+      "pratar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "tastes",
+    "se": [
+      "smakar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "tea",
+    "se": [
+      "te",
+      "teet"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "teach",
+    "se": [
+      "lära",
+      "undervisa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "teacher",
+    "se": [
+      "lärare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "teaches",
+    "se": [
+      "undervisar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "teaching",
+    "se": [
+      "undervisning"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "tear",
+    "se": [
+      "tår"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "tears",
+    "se": [
+      "tårar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "tell",
+    "se": [
+      "berätta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "ten",
+    "se": [
+      "tio"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "terrible",
+    "se": [
+      "hemskt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "than",
+    "se": [
+      "än"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "thank you",
+    "se": [
+      "tackar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "thanked",
+    "se": [
+      "tackade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "thanks",
+    "se": [
+      "tack"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the",
+    "se": [
+      "de",
+      "den",
+      "det"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the account",
+    "se": [
+      "kontot"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the actors",
+    "se": [
+      "skådespelarna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the actresses",
+    "se": [
+      "skådespelerskorna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the address",
+    "se": [
+      "adressen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the adventure",
+    "se": [
+      "äventyret"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the afternoon",
+    "se": [
+      "eftermiddagen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the air",
+    "se": [
+      "luften"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the alternatives",
+    "se": [
+      "alternativen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the amount",
+    "se": [
+      "mängden"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the animal",
+    "se": [
+      "djuret"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the animals",
+    "se": [
+      "djuren"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the answer",
+    "se": [
+      "svaret"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the apple",
+    "se": [
+      "äpplet"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the apples",
+    "se": [
+      "äpplena"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the architect",
+    "se": [
+      "arkitekten"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the artist",
+    "se": [
+      "artisten"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the bag",
+    "se": [
+      "väskan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the bags",
+    "se": [
+      "väskorna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the baker",
+    "se": [
+      "bagaren"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the bakery",
+    "se": [
+      "bageriet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the bar",
+    "se": [
+      "baren"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the bars",
+    "se": [
+      "barerna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the basket",
+    "se": [
+      "korgen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the bathroom",
+    "se": [
+      "badrummet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the battery",
+    "se": [
+      "batteriet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the beaches",
+    "se": [
+      "stränderna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the bed",
+    "se": [
+      "sängen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the bee",
+    "se": [
+      "biet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the beef",
+    "se": [
+      "nötköttet"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the beer",
+    "se": [
+      "ölet"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the bird",
+    "se": [
+      "fågeln"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the birds",
+    "se": [
+      "fåglarna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the blanket",
+    "se": [
+      "täcket"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the boat",
+    "se": [
+      "båten"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the boats",
+    "se": [
+      "båtarna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the books",
+    "se": [
+      "böckerna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the bottle",
+    "se": [
+      "flaskan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the boundaries",
+    "se": [
+      "gränserna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the bowl",
+    "se": [
+      "skålen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the bowls",
+    "se": [
+      "skålarna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the boy",
+    "se": [
+      "pojken"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the boys'",
+    "se": [
+      "pojkarnas"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the bread",
+    "se": [
+      "brödet"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the breakfast",
+    "se": [
+      "frukosten"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the bridge",
+    "se": [
+      "bron"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the brothers",
+    "se": [
+      "bröderna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the buildings",
+    "se": [
+      "byggnaderna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the bus",
+    "se": [
+      "bussen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the butter",
+    "se": [
+      "smöret"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the butterfly",
+    "se": [
+      "fjärilen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the cake",
+    "se": [
+      "tårtan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the carpet",
+    "se": [
+      "mattan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the castle",
+    "se": [
+      "slottet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the cat",
+    "se": [
+      "katten"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the cats",
+    "se": [
+      "katterna",
+      "katternas"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the century",
+    "se": [
+      "århundradets"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the chain",
+    "se": [
+      "kedjan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the chapter",
+    "se": [
+      "kapitlet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the cheese",
+    "se": [
+      "osten"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the chef",
+    "se": [
+      "kocken"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the chefs",
+    "se": [
+      "kockarna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the chicken",
+    "se": [
+      "kycklingen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the child",
+    "se": [
+      "barnet"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the children",
+    "se": [
+      "barnen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the cinnamon buns",
+    "se": [
+      "kanelbullarna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the cities",
+    "se": [
+      "städerna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the citizen",
+    "se": [
+      "medborgaren"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the clock",
+    "se": [
+      "klockan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the clothes",
+    "se": [
+      "kläderna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the cloud",
+    "se": [
+      "molnet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the clouds",
+    "se": [
+      "molnen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the coasts",
+    "se": [
+      "kusterna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the coffee",
+    "se": [
+      "kaffet"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the conclusion",
+    "se": [
+      "slutsatsen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the content",
+    "se": [
+      "innehållet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the conversation",
+    "se": [
+      "samtalet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the cords",
+    "se": [
+      "snören"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the corner",
+    "se": [
+      "hörnet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the country",
+    "se": [
+      "landet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the crab",
+    "se": [
+      "krabban"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the crisis",
+    "se": [
+      "krisen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the crown princess",
+    "se": [
+      "kronprinsessan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the curtains",
+    "se": [
+      "gardinerna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the darkness",
+    "se": [
+      "mörkret"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the date",
+    "se": [
+      "datumet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the day",
+    "se": [
+      "dygnets"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the day after tomorrow",
+    "se": [
+      "övermorgon"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the day before yesterday",
+    "se": [
+      "förrgår"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the days",
+    "se": [
+      "dagarna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the desk",
+    "se": [
+      "skrivbordet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the details",
+    "se": [
+      "detaljerna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the difficulties",
+    "se": [
+      "svårigheterna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the document",
+    "se": [
+      "dokumentet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the dog",
+    "se": [
+      "hunden"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the dogs",
+    "se": [
+      "hundarna",
+      "hundarnas"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the drawers",
+    "se": [
+      "lådorna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the dress",
+    "se": [
+      "klänningen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the duck",
+    "se": [
+      "ankan"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the ducks",
+    "se": [
+      "ankorna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the earth",
+    "se": [
+      "jorden"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the effects",
+    "se": [
+      "effekterna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the egg",
+    "se": [
+      "ägget"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the elephants",
+    "se": [
+      "elefanterna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the enemy",
+    "se": [
+      "fienden"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the entertainment field",
+    "se": [
+      "nöjesfältet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the environment",
+    "se": [
+      "miljön"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the equipment",
+    "se": [
+      "utrustningen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the evidence",
+    "se": [
+      "bevisen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the example",
+    "se": [
+      "exemplet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the exercise",
+    "se": [
+      "övningen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the eye",
+    "se": [
+      "ögat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the fabric",
+    "se": [
+      "tyget"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the family",
+    "se": [
+      "familjen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the farmers",
+    "se": [
+      "bönderna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the farmhouses",
+    "se": [
+      "bondgårdarna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the firefighters",
+    "se": [
+      "brandmännen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the fish",
+    "se": [
+      "fiskarna",
+      "fisken"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the flag",
+    "se": [
+      "flaggan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the floor",
+    "se": [
+      "golven",
+      "golvet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the flowers",
+    "se": [
+      "blommorna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the fly",
+    "se": [
+      "flugan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the food",
+    "se": [
+      "maten"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the fox",
+    "se": [
+      "räven"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the frog",
+    "se": [
+      "grodan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the front",
+    "se": [
+      "framsidan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the fruit",
+    "se": [
+      "frukten"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the frying pan",
+    "se": [
+      "stekpannan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the gaze",
+    "se": [
+      "blicken"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the girl",
+    "se": [
+      "flickan"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the girl's",
+    "se": [
+      "flickans"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the girls",
+    "se": [
+      "flickorna",
+      "flickornas"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the glasses",
+    "se": [
+      "glasögonen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the goal",
+    "se": [
+      "målet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the grass",
+    "se": [
+      "gräset"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the group",
+    "se": [
+      "gruppen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the guards",
+    "se": [
+      "vakterna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the guide",
+    "se": [
+      "guiden"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the guy",
+    "se": [
+      "killen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the harbor",
+    "se": [
+      "hamnen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the hero",
+    "se": [
+      "hjälten"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the horse",
+    "se": [
+      "hästen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the horses",
+    "se": [
+      "hästarna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the ice cream",
+    "se": [
+      "glassen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the individual",
+    "se": [
+      "individen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the infant",
+    "se": [
+      "spädbarnet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the interpreter",
+    "se": [
+      "tolken"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the island",
+    "se": [
+      "ön"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the islands",
+    "se": [
+      "öarna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the jackets",
+    "se": [
+      "jackorna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the job",
+    "se": [
+      "jobben"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the journalist",
+    "se": [
+      "journalisten"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the juice",
+    "se": [
+      "saften"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the keys",
+    "se": [
+      "nycklarna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the kitchen",
+    "se": [
+      "köket"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the lamb",
+    "se": [
+      "lammet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the landscape",
+    "se": [
+      "landskapet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the lawyers",
+    "se": [
+      "advokaterna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the lecture",
+    "se": [
+      "föreläsningen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the lectures",
+    "se": [
+      "föreläsningarna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the lemon",
+    "se": [
+      "citronen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the lesson",
+    "se": [
+      "lektionen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the letter",
+    "se": [
+      "brevet"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the letters",
+    "se": [
+      "breven"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the library",
+    "se": [
+      "biblioteket"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the light",
+    "se": [
+      "ljuset"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the limit",
+    "se": [
+      "gränsen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the lion",
+    "se": [
+      "lejonet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the list",
+    "se": [
+      "listan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the love",
+    "se": [
+      "kärleken"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the majority",
+    "se": [
+      "majoriteten"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the man",
+    "se": [
+      "mannen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the man's",
+    "se": [
+      "mannens"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the markets",
+    "se": [
+      "marknaderna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the material",
+    "se": [
+      "materialet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the meaning",
+    "se": [
+      "meningen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the meat",
+    "se": [
+      "köttet"
+    ],
+    "points": 0.5,
+    "known": true
+  },
+  {
+    "en": "the meatballs",
+    "se": [
+      "köttbullarna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the memory",
+    "se": [
+      "minnet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the men",
+    "se": [
+      "männen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the models",
+    "se": [
+      "modellerna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the money",
+    "se": [
+      "pengarna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the months",
+    "se": [
+      "månaderna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the moose",
+    "se": [
+      "älgarna",
+      "älgen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the morning",
+    "se": [
+      "morgonen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the most cozy",
+    "se": [
+      "mysigaste"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the museums",
+    "se": [
+      "museerna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the net",
+    "se": [
+      "nätet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the newspaper",
+    "se": [
+      "tidningen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the newspapers",
+    "se": [
+      "tidningarna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the nordic countries",
+    "se": [
+      "norden"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the novel",
+    "se": [
+      "romanen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the number",
+    "se": [
+      "antalet",
+      "numret"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the oil",
+    "se": [
+      "oljan"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the opportunity",
+    "se": [
+      "möjligheten"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the pants",
+    "se": [
+      "byxorna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the park",
+    "se": [
+      "parken"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the patient",
+    "se": [
+      "patienten"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the pen",
+    "se": [
+      "pennan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the people",
+    "se": [
+      "folket"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the period",
+    "se": [
+      "perioden"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the phone",
+    "se": [
+      "telefonen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the piano",
+    "se": [
+      "pianot"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the picture",
+    "se": [
+      "bilden"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the pig",
+    "se": [
+      "grisen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the pilots",
+    "se": [
+      "piloterna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the place",
+    "se": [
+      "platsen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the police",
+    "se": [
+      "polisen",
+      "poliserna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the population",
+    "se": [
+      "befolkningen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the pork",
+    "se": [
+      "fläskköttet"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the potatoes",
+    "se": [
+      "potatisarna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the powder",
+    "se": [
+      "pulvret"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the presentation",
+    "se": [
+      "presentationen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the prime minister",
+    "se": [
+      "statsministern"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the prison",
+    "se": [
+      "fängelset"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the problem",
+    "se": [
+      "problemet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the proposals",
+    "se": [
+      "förslagen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the public",
+    "se": [
+      "allmänheten"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the purpose",
+    "se": [
+      "syftet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the question",
+    "se": [
+      "frågan"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the rabbits",
+    "se": [
+      "kaninerna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the race",
+    "se": [
+      "loppet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the radio",
+    "se": [
+      "radion"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the raspberry",
+    "se": [
+      "hallonen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the region",
+    "se": [
+      "regionen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the regions",
+    "se": [
+      "regionerna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the reindeer",
+    "se": [
+      "renen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the report",
+    "se": [
+      "rapporten"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the restaurant's",
+    "se": [
+      "restaurangens"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the result",
+    "se": [
+      "resultatet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the rice",
+    "se": [
+      "riset"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the river",
+    "se": [
+      "ån"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the rock",
+    "se": [
+      "rocken"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the room",
+    "se": [
+      "rummet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the rooms",
+    "se": [
+      "rummen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the salmon",
+    "se": [
+      "laxen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the salt",
+    "se": [
+      "saltet"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the sami",
+    "se": [
+      "samerna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the sandwich",
+    "se": [
+      "smörgåsen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the sandwiches",
+    "se": [
+      "smörgåsarna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the saucepan",
+    "se": [
+      "kastrullen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the saucepans",
+    "se": [
+      "kastrullerna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the sauna",
+    "se": [
+      "bastun"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the sausage",
+    "se": [
+      "korven"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the scarf",
+    "se": [
+      "halsduken"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the scissors",
+    "se": [
+      "saxarna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the sea",
+    "se": [
+      "havet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the seasons",
+    "se": [
+      "årstiderna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the service",
+    "se": [
+      "servicen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the sheep",
+    "se": [
+      "fåret"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the ship",
+    "se": [
+      "skeppet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the shirt",
+    "se": [
+      "skjortan",
+      "tröjan"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the shortest",
+    "se": [
+      "kortast"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the sides",
+    "se": [
+      "sidorna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the skirt",
+    "se": [
+      "kjolen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the skirts",
+    "se": [
+      "kjolarna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the soap",
+    "se": [
+      "tvålen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the soccer field",
+    "se": [
+      "fotbollsplanen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the soda",
+    "se": [
+      "läsken"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the sofas",
+    "se": [
+      "sofforna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the soldier",
+    "se": [
+      "soldaten"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the soup",
+    "se": [
+      "soppan"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the speed",
+    "se": [
+      "hastigheten"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the spider",
+    "se": [
+      "spindeln"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the spirit",
+    "se": [
+      "anden"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the squirrel",
+    "se": [
+      "ekorren"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the stop",
+    "se": [
+      "hållplatsen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the store",
+    "se": [
+      "affären"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the strawberries",
+    "se": [
+      "jordgubbarna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the strawberry",
+    "se": [
+      "jordgubben"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the streets",
+    "se": [
+      "gatorna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the string",
+    "se": [
+      "snöret"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the students",
+    "se": [
+      "eleverna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the subject",
+    "se": [
+      "ämnet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the subway",
+    "se": [
+      "tunnelbanan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the suit",
+    "se": [
+      "kostymen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the sum",
+    "se": [
+      "summan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the summers",
+    "se": [
+      "somrarna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the sweaters",
+    "se": [
+      "tröjorna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the system",
+    "se": [
+      "systemet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the table",
+    "se": [
+      "bordet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the teacher",
+    "se": [
+      "läraren"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the teaching",
+    "se": [
+      "undervisningen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the ticket",
+    "se": [
+      "biljetten"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the tickets",
+    "se": [
+      "biljetterna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the tie",
+    "se": [
+      "slipsen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the ties",
+    "se": [
+      "slipsarna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the tiger",
+    "se": [
+      "tigern"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the toilet",
+    "se": [
+      "toaletten"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the toilets",
+    "se": [
+      "toaletterna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the tomato",
+    "se": [
+      "tomaten"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the tower",
+    "se": [
+      "tornet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the towers",
+    "se": [
+      "tornen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the turtles",
+    "se": [
+      "sköldpaddorna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the type",
+    "se": [
+      "typen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the umbrella",
+    "se": [
+      "paraplyet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the union",
+    "se": [
+      "unionen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the value",
+    "se": [
+      "värdet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the vehicle",
+    "se": [
+      "fordonet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the version",
+    "se": [
+      "versionen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the victim",
+    "se": [
+      "offret"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the view",
+    "se": [
+      "utsikten"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the villages",
+    "se": [
+      "byarna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the volume",
+    "se": [
+      "volymen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the votes",
+    "se": [
+      "rösterna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the water",
+    "se": [
+      "vattnet"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the waterfall",
+    "se": [
+      "vattenfallet"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the way",
+    "se": [
+      "sättet",
+      "vägen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the west coast",
+    "se": [
+      "västkusten"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the width",
+    "se": [
+      "bredden"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the window",
+    "se": [
+      "fönstret"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the wine",
+    "se": [
+      "vinet"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the wines",
+    "se": [
+      "vinerna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the wolf",
+    "se": [
+      "vargen"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the woman",
+    "se": [
+      "kvinnan"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the women",
+    "se": [
+      "kvinnorna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the worker",
+    "se": [
+      "arbetaren"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "the world",
+    "se": [
+      "världen",
+      "världens"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the year",
+    "se": [
+      "året"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the youngest",
+    "se": [
+      "yngste"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "the youth",
+    "se": [
+      "ungdomarna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "their",
+    "se": [
+      "deras",
+      "sina"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "them",
+    "se": [
+      "dem"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "then",
+    "se": [
+      "då",
+      "sedan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "there",
+    "se": [
+      "dit"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "therefore",
+    "se": [
+      "därför"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "these",
+    "se": [
+      "dessa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "thick",
+    "se": [
+      "tjock",
+      "tjocka"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "thin",
+    "se": [
+      "smal"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "thing",
+    "se": [
+      "sak"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "think",
+    "se": [
+      "tror",
+      "tycka",
+      "tycker",
+      "tänk"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "thinking",
+    "se": [
+      "tänker"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "third",
+    "se": [
+      "tredje"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "thirsty",
+    "se": [
+      "törstig",
+      "törstiga"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "thirteen",
+    "se": [
+      "tretton"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "thirty",
+    "se": [
+      "trettio"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "this",
+    "se": [
+      "detta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "this one",
+    "se": [
+      "denna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "thought",
+    "se": [
+      "trodde",
+      "tyckte",
+      "tänkt",
+      "tänkte"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "thoughts",
+    "se": [
+      "tankar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "thousand",
+    "se": [
+      "tusen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "thousands of",
+    "se": [
+      "tusentals"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "threat",
+    "se": [
+      "hot"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "three",
+    "se": [
+      "tre"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "thrive",
+    "se": [
+      "trivs"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "throat",
+    "se": [
+      "halsen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "through",
+    "se": [
+      "genom",
+      "igenom"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "thunder",
+    "se": [
+      "åska"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "thursday",
+    "se": [
+      "torsdag"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "time",
+    "se": [
+      "tid"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "times",
+    "se": [
+      "gånger"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "tired",
+    "se": [
+      "trött",
+      "tröttare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "to",
+    "se": [
+      "att",
+      "till"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "to date",
+    "se": [
+      "hittills"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "to death",
+    "se": [
+      "ihjäl"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "together",
+    "se": [
+      "ihop",
+      "tillsammans"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "told",
+    "se": [
+      "berättade",
+      "berättat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "tomato",
+    "se": [
+      "tomat"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "took",
+    "se": [
+      "tog"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "toothbrush",
+    "se": [
+      "tandborste",
+      "tandborsten"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "toothpaste",
+    "se": [
+      "tandkräm",
+      "tandkrämen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "top",
+    "se": [
+      "bästa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "total",
+    "se": [
+      "sammanlagda"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "tourist",
+    "se": [
+      "turist"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "tourists",
+    "se": [
+      "turister"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "tournament",
+    "se": [
+      "turnering"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "towel",
+    "se": [
+      "handduk"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "tower",
+    "se": [
+      "torn"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "town",
+    "se": [
+      "stan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "toxins",
+    "se": [
+      "gifter"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "toy",
+    "se": [
+      "leksak"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "toys",
+    "se": [
+      "leksaker"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "train",
+    "se": [
+      "träna",
+      "tåg"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "training",
+    "se": [
+      "utbildning"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "travel",
+    "se": [
+      "resor"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "traveling",
+    "se": [
+      "reser"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "treated",
+    "se": [
+      "behandlade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "tree",
+    "se": [
+      "träd"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "tried",
+    "se": [
+      "försökt",
+      "försökte"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "trip",
+    "se": [
+      "resa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "true",
+    "se": [
+      "sant"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "trusted",
+    "se": [
+      "litade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "trusts",
+    "se": [
+      "litar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "trying",
+    "se": [
+      "försöker"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "tuesday",
+    "se": [
+      "tisdag"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "turned",
+    "se": [
+      "svängde"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "turtle",
+    "se": [
+      "sköldpadda",
+      "sköldpaddan"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "turtles",
+    "se": [
+      "sköldpaddor"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "twelve",
+    "se": [
+      "tolv"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "twenty",
+    "se": [
+      "tjugo",
+      "tjugoen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "twenty -five",
+    "se": [
+      "tjugofem"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "twenty four",
+    "se": [
+      "tjugofyra"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "twenty-one",
+    "se": [
+      "tjugoett"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "twice",
+    "se": [
+      "dubbelt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "two",
+    "se": [
+      "två"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "type",
+    "se": [
+      "typ"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "u.s",
+    "se": [
+      "oss"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "ugly",
+    "se": [
+      "ful"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "uk",
+    "se": [
+      "storbritannien"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "uncle",
+    "se": [
+      "farbror",
+      "morbror"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "uncle's",
+    "se": [
+      "farbrors"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "uncles",
+    "se": [
+      "morbröder"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "understand",
+    "se": [
+      "förstå"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "understands",
+    "se": [
+      "förstår"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "understood",
+    "se": [
+      "förstod"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "union",
+    "se": [
+      "union"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "until",
+    "se": [
+      "tills"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "unusual",
+    "se": [
+      "ovanligt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "up",
+    "se": [
+      "upp",
+      "uppe",
+      "uppför"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "use",
+    "se": [
+      "använda"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "used",
+    "se": [
+      "använde"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "used to",
+    "se": [
+      "brukade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "uses",
+    "se": [
+      "använder"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "usual",
+    "se": [
+      "vanliga"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "usually",
+    "se": [
+      "brukar",
+      "vanligtvis"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "vacation",
+    "se": [
+      "semester"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "value",
+    "se": [
+      "värde"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "variety",
+    "se": [
+      "sort"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "various",
+    "se": [
+      "olika"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "vegetarian",
+    "se": [
+      "vegetarian",
+      "vegetarisk",
+      "vegetariska"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "version",
+    "se": [
+      "version"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "very",
+    "se": [
+      "allra",
+      "mycket",
+      "väldigt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "view",
+    "se": [
+      "utsikt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "viking",
+    "se": [
+      "viking"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "vikings",
+    "se": [
+      "vikingar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "violin",
+    "se": [
+      "fiol"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "visit",
+    "se": [
+      "besök"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "voice",
+    "se": [
+      "röst"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "voices",
+    "se": [
+      "röster"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "volcano",
+    "se": [
+      "vulkan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "volcanoes",
+    "se": [
+      "vulkaner"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "voted",
+    "se": [
+      "röstade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "wait",
+    "se": [
+      "vänta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "waited",
+    "se": [
+      "väntade"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "walking",
+    "se": [
+      "gående"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "wallet",
+    "se": [
+      "plånbok"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "wanted",
+    "se": [
+      "velat",
+      "ville"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "wants",
+    "se": [
+      "vill"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "warm",
+    "se": [
+      "varm",
+      "varmt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "warmer",
+    "se": [
+      "varmare"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "warmest",
+    "se": [
+      "varmast",
+      "varmaste"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "was built",
+    "se": [
+      "byggdes"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "was called",
+    "se": [
+      "hette"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "was criticized",
+    "se": [
+      "kritiserades"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "wash",
+    "se": [
+      "tvätta",
+      "tvättar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "washed",
+    "se": [
+      "tvättat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "water",
+    "se": [
+      "vatten"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "wave",
+    "se": [
+      "våg"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "way",
+    "se": [
+      "sätt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "we",
+    "se": [
+      "vi"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "wedding",
+    "se": [
+      "bröllop"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "wednesday",
+    "se": [
+      "onsdag"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "weekend",
+    "se": [
+      "helg",
+      "helgen"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "weight",
+    "se": [
+      "vikt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "well",
+    "se": [
+      "ju",
+      "väl"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "went",
+    "se": [
+      "gick",
+      "åkte"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "west",
+    "se": [
+      "väster"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "wet",
+    "se": [
+      "blöt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "what",
+    "se": [
+      "vad"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "wheel",
+    "se": [
+      "hjul"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "when",
+    "se": [
+      "när"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "where",
+    "se": [
+      "där",
+      "var",
+      "vart"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "which",
+    "se": [
+      "vilka",
+      "vilken",
+      "vilket"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "while",
+    "se": [
+      "medan",
+      "stund"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "white",
+    "se": [
+      "vit",
+      "vita",
+      "vitt"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "who",
+    "se": [
+      "vem"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "whole",
+    "se": [
+      "hel",
+      "hela"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "whose",
+    "se": [
+      "vars",
+      "vems"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "why",
+    "se": [
+      "varför"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "wife",
+    "se": [
+      "fru"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "will",
+    "se": [
+      "ska",
+      "vilja"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "win",
+    "se": [
+      "vinna"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "wine",
+    "se": [
+      "vin"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "wines",
+    "se": [
+      "viner"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "wins",
+    "se": [
+      "vinner"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "winter",
+    "se": [
+      "vinter"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "wish",
+    "se": [
+      "önskan"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "with",
+    "se": [
+      "med"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "within",
+    "se": [
+      "inom"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "without",
+    "se": [
+      "utan"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "wolf",
+    "se": [
+      "varg"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "woman",
+    "se": [
+      "kvinna"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "woman's",
+    "se": [
+      "kvinnans"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "women",
+    "se": [
+      "kvinnor"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "won",
+    "se": [
+      "vann",
+      "vunnit"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "wonder",
+    "se": [
+      "undrar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "wonderful",
+    "se": [
+      "underbara"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "words",
+    "se": [
+      "ord"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "work",
+    "se": [
+      "arbete",
+      "fungera"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "worked",
+    "se": [
+      "arbetade",
+      "arbetat"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "working",
+    "se": [
+      "arbetar"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "works",
+    "se": [
+      "fungerar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "worrier",
+    "se": [
+      "oroar"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "worry",
+    "se": [
+      "oroa"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "worst",
+    "se": [
+      "sämsta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "worth",
+    "se": [
+      "värt"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "worthy",
+    "se": [
+      "värda"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "would",
+    "se": [
+      "skulle"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "would be",
+    "se": [
+      "vore"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "write",
+    "se": [
+      "skriv",
+      "skriva"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "writes",
+    "se": [
+      "skriver"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "written",
+    "se": [
+      "skrivit"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "wrong",
+    "se": [
+      "fel"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "wrote",
+    "se": [
+      "skrev"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "yellow",
+    "se": [
+      "gula",
+      "gult"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "yes",
+    "se": [
+      "ja",
+      "jo"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "yet",
+    "se": [
+      "ännu"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "you",
+    "se": [
+      "dig",
+      "du",
+      "ni"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "you are welcome",
+    "se": [
+      "varsågod"
+    ],
+    "points": 0,
+    "known": true
+  },
+  {
+    "en": "young",
+    "se": [
+      "ung",
+      "unge"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "younger",
+    "se": [
+      "yngre"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "youngest",
+    "se": [
+      "yngsta"
+    ],
+    "points": 0,
+    "known": false
+  },
+  {
+    "en": "your",
+    "se": [
+      "din",
+      "ditt",
+      "er"
+    ],
+    "points": 0,
+    "known": true
+  }
+]
