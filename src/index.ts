@@ -7,7 +7,6 @@ const FILE_PATH = 'data/words.json'
 const FILE_PATH_FLAGS = 'data/flags.logs'
 
 type Word = { en: string, se: string[], points : number, known: boolean }
-
 let words: Word[] = JSON.parse(fs.readFileSync(FILE_PATH, 'utf8'))
 
 const bot = new Telegraf(process.env.BOT_TOKEN ?? '');
@@ -38,7 +37,7 @@ bot.command('flag', async (ctx) => {
 })
 
 bot.command('reload', async (ctx) => {
-    words = JSON.parse(fs.readFileSync('words.txt', 'utf8'))
+    words = JSON.parse(fs.readFileSync(FILE_PATH, 'utf8'))
     await ctx.reply('Reloaded');
 })
 
