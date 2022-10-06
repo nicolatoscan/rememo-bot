@@ -1,712 +1,606 @@
-polisen|the police
-hur|how
-är|is
-vilken|which
-många|many
-min|my
-och|and
-sig|one
-som|as
-engelska|English
-svenska|Swedish
-har|have
-var|where
-på|on
-en|one
-hennes|her
-han|he
-ni|you
-arbetar|working
-hon|she
-svart|black
-vem|who
-mellan|between
-dricker|drinks
-tycker|think
-vi|we
-skriver|writes
-öl|beer
-på|on
-böcker|books
-om|if
-vår|spring
-ett|one
-du|you
-varför|why
-mina|mine
-personlig|personal
-officiella|official
-konstiga|strange
-sist|last
-sista|last
-officiellt|officially
-personligt|personal
-dåligt|badly
-nödvändig|necessary
-dåliga|bad ones
-privat|private
-konstigt|weird
-nödvändigt|necessary
-självständiga|independent
-privata|private
-självständigt|independently
-kommer|comes
-i|in
-de|the
-inte|not
-man|MAN
-dina|yours
-den|the
-det|the
-fina|fine
-helt|completely
-lik|like
-samma|same
-populär|Popular
-populärt|popularly
-möjligt|possible
-viktigt|important
-fina|fine
-viktig|important
-olika|various
-äter|eats
-mig|me
-mat|food
-läser|reading
-mitt|my
-köper|buys
-sin|its
-för|for
-tidning|newspaper
-jag|I
-vänster|left
-smutsiga|dirty
-smutsig|Dirty
-smutsigt|dirty
-ren|clean
-nytt|new
-ny|new
-om|if
-bok|Book
-hunden|the dog
-tidningen|the newspaper
-säljer|selling
-gamla|old
-männen|the men
-vad|What
-gör|makes
-därför|therefore
-gammalt|old
-äpplet|the apple
-att|to
-till|to
-nästa|Next
-gammal|old
-fisk|fish
-öppen|open
-öppet|open
-långa|long
-kallt|cool
-varma|warm
-egna|own
-varm|warm
-varmt|warm
-egen|own
-inga|no
-lagar|laws
-brev|mail
-barn|children
-öppna|Open
-hund|dog
-bra|Good
-kaffet|the coffee
-våra|ours
-din|your
-mycket|very
-honom|him
-vilket|which
-älskar|love
-före|before
-kvinnan|the woman
-med|with
-mannen|the man
-så|so
-hans|his
-det|the
-morgon|morning
-vart|where
-flyger|flying
-er|your
-då|then
-nej|No
-hallå|Hello
-ja|yes
-varsågod|You are welcome
-ursäkta|excuse
-natt|night
-god|good
-snälla|please
-hej|Hello
-morgon|morning
-tack|thanks
-kyckling|chicken
-flera|several
-sover|sleeping
-simmar|swimming
-sjunger|sings
-frukost|breakfast
-hästen|the horse
-hos|at
-åker|goes
-vid|at
-älgen|the elk
-er|your
-pasta|pasta
-regnar|is raining
-oss|U.S
-vilka|which
-svarar|answers
-vems|whose
-kvinnorna|the women
-när|when
-inget|nothing
-jo|yes
-förstår|understand
-frågar|asks
-häst|HORSE
-fågel|bird
-djur|animal
-krabba|crab
-sköldpadda|turtle
-elefant|Elephant
-vatten|water
-spindel|spider
-sköldpaddan|the turtle
-bonde|peasant
-ingenjören|the engineer
-sitt|his
-hundar|dogs
-gråter|crying
-hästar|horses
-stöttar|supports
-hittar|finds
-ser|looks
-lyssnar|listening
-ingen|No
-ditt|your
-brandmän|firefighters
-vakt|guard
-brandmännen|the firemen
-kvinna|woman
-använder|uses
-sina|theirs
-pratar|talking
-leker|playing
-barnen|the children
-ha|have
-går|goes
-citron|lemon
-vill|wants
-björn|bear
-glass|ice cream
-bröd|bread
-dig|you
-barn|children
-kaffe|coffee
-rosa|pink
-kött|meat
-gyllene|golden
-mors|mother's
-arbetare|worker
-student|student
-modeller|models
-ert|your
-tallrikar|plates
-vårt|ours
-smörgåsar|sandwiches
-tidningar|newspapers
-era|era
-dess|its
-djuren|the animals
-hundarna|the dogs
-smörgåsarna|the sandwiches
-ankorna|the ducks
-anka|duck
-ankor|ducks
-fåglar|birds
-kockar|cooks
-kockarna|the cooks
-vin|wine
-älg|Moose
-eller|or
-sitter|sitting
-tomat|tomato
-förrän|before
-när|when
-tar|takes
-betalar|pays
-tills|until
-utan|without
-äpplen|apples
-måndag|Monday
-deras|their
-svarta|black
-stora|large
-trötta|weary
-långe|long
-långa|long
-stort|large
-långt|far
-trött|tired
-små|small
-barnet|the child
-väljer|chooses
-liten|small
-litet|small
-lille|little
-björnen|the bear
-lilla|small
-lunchen|the lunch
-henne|her
-dem|them
-eftersom|since
-springer|runs
-vegetarian|vegetarian
-innan|before
-medan|while
-helst|preferably
-te|tea
-om|if
-vet|know
-fläskkött|pork
-men|but
-fåglarna|the birds
-framåt|Forward
-bakom|behind
-mot|against
-skrattar|laughing
-står|stands
-åt|at
-tolken|the interpreter
-artistens|the artist's
-pilot|Pilot
-vakter|guards
-domare|Judge
-talar|speaking
-efter|after
-chefen|the boss
-präst|priest
-arkitekten|the architect
-soldater|troops
-ingenjör|engineer
-prästen|the priest
-bönderna|the farmers
-yrke|profession
-arkitekt|architect
-chef|manager
-soldaten|the soldier
-vakterna|the guards
-skådespelerskorna|the actresses
-piloten|the pilot
-skådespelerska|actress
-domaren|the judge
-brandman|fire-fighter
-skådespelarna|the actors
-vakten|the guard
-professionell|professional
-skådespelare|actor
-arbetare|worker
-advokat|lawyer
-polis|police
-artist|Artist
-artisten|the artist
-sekreterare|Secretary
-arbetaren|the worker
-karriär|career
-tolk|interpreter
-sekreterare|Secretary
-advokaten|the lawyer
-poliserna|the police officers
-advokaterna|the lawyers
-hoppar|jumping
-under|during
-sköldpaddorna|the turtles
-bredvid|beside
-över|over
-utanför|outside
-framför|in front
-modellen|the model
-författare|Author
-arbete|work
-jobb|Job
-studenterna|the students
-arbetet|the work
-jobben|the job
-läkare|Doctor
-författare|Author
-jobbet|the job
-personalen|the staff
-modell|model
-personal|staff
-genom|through
-vattnet|the water
-utan|without
-katt|Cat
-vit|White
-socker|sugar
-lunch|lunch
-fisken|the fish
-ägg|egg
-äpplena|The apples
-enligt|according to
-från|from
-maten|The food
-katterna|the cats
-hästarna|the horses
-spindeln|the spider
-av|of
-lila|purple
-vitt|White
-färgglad|colorful
-äpple|apple
-elefanterna|the elephants
-vita|White
-orange|orange
-olja|oil
-jordgubbe|strawberry
-apelsin|orange
-juice|juice
-nötkött|beef
-måltid|meal
-frukt|fruit
-peppar|pepper
-salt|salt
-frus|frozen
-tvättar|washes
-katten|the cat
-visar|shows
-djur|animal
-ritar|draws
-hör|hear
-smörgåsen|the sandwich
-fågeln|the bird
-djuret|the animal
-ankan|the duck
-krabban|the crab
-elefanten|the elephant
-soppa|soup
-frukten|the fruit
-teet|the tea
-osten|the cheese
-pastan|the pasta
-ägget|the egg
-pojke|boy
-finns|exists
-katter|cats
-elefanter|elephants
-ost|cheese
-gula|yellow
-tvilling|twin
-mödrarna|the mothers
-kusin|cousin
-morfar|grandfather
-tidningarna|the newspapers
-sköldpaddor|turtles
-böckerna|the books
-tallrikarna|plates
-barnbarn|grandchild
-årstid|season
-mammor|mothers
-söner|sons
-svärdotter|daughter-in-law
-morbröder|uncles
-svärson|son-in-law
-morbror|uncle
-mödrar|mothers
-döttrar|daughters
-mödrars|mothers'
-barnbarnen|the grandchildren
-svärfar|father in law
-moster|aunt
-barnbarn|grandchild
-fäder|fathers
-döttrars|daughters'
-mor|mother
-tvillingar|twins
-mormor|grandmother
-far|Father
-farmor|grandmother
-morfars|grandfather's
-farfar|grandfather
-tvillingbror|twin brother
-kusiner|cousins
-nötköttet|the beef
-riset|the rice
-kycklingen|the chicken
-frukosten|the breakfast
-vinet|the wine
-oljan|the oil
-soppan|the soup
-tomaten|the tomato
-familj|family
-onsdagar|Wednesdays
-saltet|the salt
-glassen|the ice cream
-jordgubben|the strawberry
-sockret|the sugar
-pepparn|the pepper
-fläskköttet|the pork
-veckan|the week
-skjortan|the shirt
-århundrade|century
-perioder|periods
-ögonblicket|a moment
-sommaren|the summer
-datum|date
-veckor|weeks
-kalender|calendar
-köttet|the meat
-citronen|the lemon
-syskon|siblings
-föräldrar|parents
-fastrar|aunts
-familj|family
-farbror|uncle
-syskonen|the siblings
-heter|called
-förälder|parent
-bröllop|wedding
-syskon|siblings
-fru|wife
-faster|aunt
-bröllop|wedding
-dagarna|the days
-årets|of the year
-kvart|quarter
-dygn|day
-festen|the party
-halvår|six months
-generation|generation
-generationer|generations
-perioden|the period
-århundradets|of the century
-årtionden|decades
-århundraden|centuries
-period|period
-sekund|second
-stund|while
-född|born
-sekunder|seconds
-årtiondets|of the decade
-årtionde|decade
-ögonblick|moment
-årstider|seasons
-minut|minute
-höst|fall
-hösten|the autumn
-årstiderna|the seasons
-våren|the spring
-minuter|minutes
-sommar|summer
-vinter|winter
-vintern|the winter
-midsommar|midsummer
-vår|spring
-september|September
-vardag|everyday life
-augusti|August
-oktober|October
-december|december
-november|November
-juli|July
-januari|January
-datum|date
-februari|February
-maj|May
-datumet|the date
-juni|June
-april|April
-mars|March
-vecka|week
-månader|months
-ålder|age
-lördag|Saturday
-torsdag|Thursday
-år|year
-år|year
-helgen|weekend
-lördagar|Saturdays
-söndag|Sunday
-månad|month
-helg|weekend
-kalendrar|calendars
-nätterna|the nights
-fredag|Friday
-onsdag|Wednesday
-tisdagar|Tuesdays
-måndagar|Mondays
-morgonen|the morning
-dagar|days
-tisdag|Tuesday
-pappor|fathers
-pappa|dad
-mamma|mother
-systrar|sisters
-systrarna|the sisters
-bröder|brothers
-dotter|daughter
-systrars|sisters'
-bror|Brother
-mammorna|the mothers
-pappas|dad's
-son|son
-sons|son's
-syster|Sister
-bröderna|the brothers
-pappan|the father
-natt|night
-timme|hour
-timmar|hours
-eftermiddag|afternoon
-dag|day
-eftermiddagen|the afternoon
-kväll|Evening
-tid|time
-fråga|question
-svar|response
-gröna|greens
-svaret|the answer
-svaren|the answers
-frågor|questions
-frågan|the question
-jackorna|the jackets
-tröjor|sweaters
-gul|yellow
-skärpet|the belt
-hattar|hats
-katternas|of cats
-musen|the mouse
-sko|shoe
-bruna|brown
-blått|blue
-röda|red
-halsdukar|neckwear
-halsduk|scarf
-slipsen|the tie
-slips|tie
-skjortor|shirts
-kostymer|costumes
-kläderna|the clothes
-byxor|pants
-hatt|hat
-skon|the shoe
-klänningen|the dress
-kjol|skirt
-klänningar|dresses
-jackan|the jacket
-kocken|the cook
-restaurangen|the restaurant
-grönt|green
-grön|Green
-brun|brown
-grå|gray
-brunt|brown
-gråa|grey
-blå|blue
-rött|RED
-röd|RED
-gula|yellow
-färger|colors
-gult|yellow
-blåa|blue
-färg|color
-kjolen|the skirt
-skorna|the shoes
-ficka|pocket
-skärp|belt
-knappar|buttons
-fickan|the pocket
-handskar|gloves
-rock|coat
-fickor|pockets
-skärp|belt
-slipsar|ties
-rocken|the rock
-slipsarna|the ties
-knapp|button
-halsduken|the scarf
-handske|glove
-strumpa|stocking
-byxorna|the pants
-kostym|suit
-kostymen|the costume
-skjorta|shirt
-kostymerna|the costumes
-strumpor|Socks
-hattarna|the hats
-hatten|the hat
-kläder|clothes
-jacka|jacket
-jackor|jackets
-tröjan|the shirt
-skor|shoes
-kjolarna|the skirts
-tröja|sweater
-tröjorna|the shirts
-klänning|dress
-restaurangernas|of restaurants
-hundarnas|the dogs'
-barnets|the child's
-hunds|dog's
-barns|children's
-kockars|chef's
-kockens|the cook's
-kockarnas|of the cooks
-hundens|the dog's
-barnens|the children's
-restaurangens|of the restaurant
-barns|children's
-flickans|the girl's
-pojkarnas|the boys'
-pojkens|the boy's
-flickornas|the girls'
-kattens|the cat's
-kvinnans|woman's
-katts|cat's
-mannens|the man's
-vargen|the wolf
-kopp|cup
-kock|chef
-middagen|the dinner
-älgar|Moose
-flickorna|the girls
-jordgubbar|strawberries
-fiskarna|the fish
-jordgubbarna|the strawberries
-breven|the letters
-älgarna|the moose
-fiskar|fishes
-pojkarna|the boys
-måltiden|the meal
-brödet|the bread
-boken|the book
-brevet|the letter
-vegetarianen|the vegetarian
-apelsinen|the orange
-ölet|the beer
-mus|mouse
-varg|wolf
-renen|the reindeer
-myra|ant
-myran|the ant
-ren|clean
-restaurang|restaurant
-tallrik|plate
-sked|spoon
-glas|glass
-gaffel|fork
-kniv|knife
-dryck|drink
-middag|dinner
-välkommen|Welcome
-brev|mail
+the book|boken|0
+actress|skådespelerska|0
+fine|fina|0
+working|arbetar|0
+uncle|morbror,farbror|0
+them|dem|0
+second|sekund|0
+troops|soldater|0
+which|vilken,vilket,vilka|0
+of the century|århundradets|0
+on|på|0
+winter|vinter|0
+the fruit|frukten|0
+the staff|personalen|0
+the boys|pojkarna|0
+the beer|ölet|0
+periods|perioder|0
+october|oktober|0
+drink|dryck|0
+seasons|årstider|0
+costumes|kostymer|0
+centuries|århundraden|0
+evening|kväll|0
+duck|anka|0
+salt|salt|0
+secretary|sekreterare|0
+necessary|nödvändig,nödvändigt|0
+date|datum|0
+until|tills|0
+without|utan|0
+according to|enligt|0
+whose|vems|0
+september|september|0
+sweaters|tröjor|0
+golden|gyllene|0
+stands|står|0
+summer|sommar|0
+the restaurant|restaurangen|0
+wednesdays|onsdagar|0
+calendar|kalender|0
+uses|använder|0
+week|vecka|0
+sweater|tröja|0
+grandfather|morfar,farfar|0
+not|inte|0
+looks|ser|0
+the afternoon|eftermiddagen|0
+the beef|nötköttet|0
+months|månader|0
+the children's|barnens|0
+the newspaper|tidningen|0
+daughters|döttrar|0
+uncles|morbröder|0
+the shirt|skjortan,tröjan|0
+the week|veckan|0
+the dinner|middagen|0
+playing|leker|0
+models|modeller|0
+firefighters|brandmän|0
+chef's|kockars|0
+dirty|smutsiga,smutsig,smutsigt|0
+midsummer|midsommar|0
+from|från|0
+its|sin,dess|0
+hours|timmar|0
+wants|vill|0
+police|polis|0
+my|min,mitt|0
+the clothes|kläderna|0
+the skirts|kjolarna|0
+the architect|arkitekten|0
+the crab|krabban|0
+hour|timme|0
+ducks|ankor|0
+aunt|moster,faster|0
+the elk|älgen|0
+soup|soppa|0
+afternoon|eftermiddag|0
+very|mycket|0
+the soldier|soldaten|0
+the newspapers|tidningarna|0
+new|nytt,ny|0
+fishes|fiskar|0.75
+before|före,förrän,innan|0
+ant|myra|0
+the costumes|kostymerna|0
+understand|förstår|0
+the turtle|sköldpaddan|0
+so|så|0
+decades|årtionden|0
+the apples|äpplena|0
+little|lille|0
+turtle|sköldpadda|0
+a moment|ögonblicket|0
+beef|nötkött|0
+period|period|0
+officially|officiellt|0
+the cat|katten|0
+beside|bredvid|0
+for|för|0
+your|din,er,ditt,ert|0
+apples|äpplen|0
+but|men|0
+the interpreter|tolken|0
+century|århundrade|0
+while|medan,stund|0
+water|vatten|0
+the guards|vakterna|0
+apple|äpple|0
+the egg|ägget|0
+mondays|måndagar|0
+bread|bröd|0
+please|snälla|0
+his|hans,sitt|0
+chicken|kyckling|0
+job|jobb|0
+jackets|jackor|0
+author|författare|0
+at|hos,vid,åt|0
+buttons|knappar|0
+calendars|kalendrar|0
+born|född|0
+the man|mannen|0
+the ice cream|glassen|0
+stocking|strumpa|0
+buys|köper|0
+fork|gaffel|0
+days|dagar|0
+minutes|minuter|0
+the strawberry|jordgubben|0
+sandwiches|smörgåsar|0
+the chicken|kycklingen|0
+good|bra,god|0
+to|att,till|0
+the worker|arbetaren|0
+the answer|svaret|0
+thursday|torsdag|0
+the nights|nätterna|0
+knife|kniv|0
+the ant|myran|0
+exists|finns|0
+the siblings|syskonen|0
+staff|personal|0
+mother's|mors|0
+the costume|kostymen|0
+the seasons|årstiderna|0
+daughters'|döttrars|0
+hat|hatt|0
+beer|öl|0
+bird|fågel|0
+peasant|bonde|0
+cool|kallt|0
+pockets|fickor|0
+yours|dina|0
+the meat|köttet|0
+of the decade|årtiondets|0
+through|genom|0
+response|svar|0
+swedish|svenska|0
+in front|framför|0
+talking|pratar|0
+the engineer|ingenjören|0
+the cats|katterna|0
+the scarf|halsduken|0
+tea|te|0
+friday|fredag|0
+is|är|0
+mother|mor,mamma|0
+dad's|pappas|0
+preferably|helst|0
+student|student|0
+the duck|ankan|0
+cousin|kusin|0
+night|natt|0
+many|många|0
+long|långa,långe|0
+strawberries|jordgubbar|0
+the books|böckerna|0
+mothers'|mödrars|0
+called|heter|0
+the belt|skärpet|0
+food|mat|0
+answers|svarar|0
+spring|vår|0
+lunch|lunch|0
+several|flera|0
+warm|varma,varm,varmt|0
+private|privat,privata|0
+shirts|skjortor|0
+english|engelska|0
+selling|säljer|0
+you are welcome|varsågod|0
+the party|festen|0
+question|fråga|0
+forward|framåt|0
+profession|yrke|0
+may|maj|0
+over|över|0
+generations|generationer|0
+spoon|sked|0
+ties|slipsar|0
+the fish|fisken,fiskarna|0
+orange|orange,apelsin|0
+restaurant|restaurang|0
+february|februari|0
+dinner|middag|0
+listening|lyssnar|0
+shirt|skjorta|0
+the wolf|vargen|0
+the guard|vakten|0
+glass|glas|0
+you|ni,du,dig|0
+pink|rosa|0
+no|inga,nej,ingen|0
+fire-fighter|brandman|0
+the boys'|pojkarnas|0
+the boy's|pojkens|0
+draws|ritar|0
+the orange|apelsinen|0
+fish|fisk|0
+the shoe|skon|0
+brown|bruna,brun,brunt|0
+the spider|spindeln|0
+red|röda,rött,röd|0
+the ducks|ankorna|0
+the lunch|lunchen|0
+architect|arkitekt|0
+cheese|ost|0
+the spring|våren|0
+shows|visar|0
+the girls|flickorna|0
+i|jag|0
+plates|tallrikar,tallrikarna|0
+the mouse|musen|0
+writes|skriver|0
+lawyer|advokat|0
+ice cream|glass|0
+left|vänster|0
+the wine|vinet|0
+thanks|tack|0
+completely|helt|0
+during|under|0
+the cook's|kockens|0
+pilot|pilot|0
+last|sist,sista|0
+siblings|syskon|0
+scarf|halsduk|0
+the letter|brevet|0
+the priest|prästen|0
+black|svart,svarta|0
+the winter|vintern|0
+cats|katter|0
+the actresses|skådespelerskorna|0
+the woman|kvinnan|0
+flying|flyger|0
+why|varför|0
+sister|syster|0
+popular|populär|0
+small|små,liten,litet,lilla|0
+the tie|slipsen|0
+work|arbete|0
+horse|häst|0
+generation|generation|0
+elephant|elefant|0
+the lawyer|advokaten|0
+runs|springer|0
+the grandchildren|barnbarnen|0
+the lawyers|advokaterna|0
+elephants|elefanter|0
+official|officiella|0
+independent|självständiga|0
+white|vit,vitt,vita|0
+the police officers|poliserna|0
+tuesdays|tisdagar|0
+six months|halvår|0
+daughter-in-law|svärdotter|0
+hats|hattar|0
+how|hur|0
+shoes|skor|0
+juice|juice|0
+the cat's|kattens|0
+tired|trött|0
+laws|lagar|0
+morning|morgon|0
+crab|krabba|0
+their|deras|0
+man|man|0
+newspaper|tidning|0
+the sandwich|smörgåsen|0
+egg|ägg|0
+children's|barns|0
+nothing|inget|0
+engineer|ingenjör|0
+vegetarian|vegetarian|0
+colors|färger|0
+son's|sons|0
+independently|självständigt|0
+the horses|hästarna|0
+professional|professionell|0
+cup|kopp|0
+mothers|mammor,mödrar|0
+tie|slips|0
+the actors|skådespelarna|0
+in|i|0
+the days|dagarna|0
+belt|skärp|0
+moment|ögonblick|0
+book|bok|0
+she|hon|0
+the period|perioden|0
+career|karriär|0
+son-in-law|svärson|0
+grandchild|barnbarn|0
+the vegetarian|vegetarianen|0
+dad|pappa|0
+greens|gröna|0
+the strawberries|jordgubbarna|0
+as|som|0
+the shoes|skorna|0
+the lemon|citronen|0
+cat|katt|0
+strawberry|jordgubbe|0
+parents|föräldrar|0
+the police|polisen|0
+season|årstid|0
+sons|söner|0
+seconds|sekunder|0
+if|om|0
+then|då|0
+goes|åker,går|0
+newspapers|tidningar|0
+grandmother|mormor,farmor|0
+old|gamla,gammalt,gammal|0
+know|vet|0
+gloves|handskar|0
+the rice|riset|0
+sugar|socker|0
+with|med|0
+saturdays|lördagar|0
+books|böcker|0
+the salt|saltet|0
+neckwear|halsdukar|0
+age|ålder|0
+the pork|fläskköttet|0
+own|egna,egen|0
+judge|domare|0
+weary|trötta|0
+manager|chef|0
+wine|vin|0
+of the year|årets|0
+minute|minut|0
+guard|vakt|0
+the mothers|mödrarna,mammorna|0
+the ties|slipsarna|0
+yellow|gula,gul,gult|0
+the jacket|jackan|0
+and|och|0
+drinks|dricker|0
+the water|vattnet|0
+actor|skådespelare|0
+the autumn|hösten|0
+cousins|kusiner|0
+decade|årtionde|0
+of the restaurant|restaurangens|0
+the apple|äpplet|0
+the breakfast|frukosten|0
+fruit|frukt|0
+personal|personlig,personligt|0
+horses|hästar|0
+dog's|hunds|0
+the bread|brödet|0
+clothes|kläder|0
+sisters|systrar|0
+possible|möjligt|0
+son|son|0
+speaking|talar|0
+the birds|fåglarna|0
+next|nästa|0
+the dress|klänningen|0
+family|familj|0
+yes|ja,jo|0
+popularly|populärt|0
+the pocket|fickan|0
+father|far|0
+the skirt|kjolen|0
+glove|handske|0
+the child|barnet|0
+parent|förälder|0
+the rock|rocken|0
+of restaurants|restaurangernas|0
+brother|bror|0
+wedding|bröllop|0
+the cheese|osten|0
+love|älskar|0
+button|knapp|0
+birds|fåglar|0
+the firemen|brandmännen|0
+spider|spindel|0
+the pants|byxorna|0
+what|vad|0
+the sandwiches|smörgåsarna|0
+plate|tallrik|0
+pays|betalar|0
+the students|studenterna|0
+grey|gråa|0
+jacket|jacka|0
+between|mellan|0
+the pasta|pastan|0
+time|tid|0
+the dog's|hundens|0
+era|era|0
+strange|konstiga|0
+eats|äter|0
+sunday|söndag|0
+quarter|kvart|0
+day|dygn,dag|0
+hear|hör|0
+meat|kött|0
+laughing|skrattar|0
+finds|hittar|0
+dog|hund|0
+the soup|soppan|0
+the pilot|piloten|0
+everyday life|vardag|0
+frozen|frus|0
+u.s|oss|0
+brothers|bröder|0
+the sugar|sockret|0
+chef|kock|0
+makes|gör|0
+monday|måndag|0
+the answers|svaren|0
+the oil|oljan|0
+we|vi|0
+grandfather's|morfars|0
+the cooks|kockarna|0
+when|när|0
+daughter|dotter|0
+pasta|pasta|0
+comes|kommer|0
+aunts|fastrar|0
+theirs|sina|0
+wife|fru|0
+the coffee|kaffet|0
+meal|måltid|0
+the animal|djuret|0
+january|januari|0
+therefore|därför|0
+like|lik|0
+doctor|läkare|0
+supports|stöttar|0
+the meal|måltiden|0
+gray|grå|0
+the morning|morgonen|0
+weeks|veckor|0
+who|vem|0
+the cook|kocken|0
+saturday|lördag|0
+excuse|ursäkta|0
+color|färg|0
+asks|frågar|0
+fathers|fäder,pappor|0
+weekend|helgen,helg|0
+the jackets|jackorna|0
+twins|tvillingar|0
+guards|vakter|0
+december|december|0
+the date|datumet|0
+bear|björn|0
+takes|tar|0
+sings|sjunger|0
+chooses|väljer|0
+wednesday|onsdag|0
+the pepper|pepparn|0
+the sisters|systrarna|0
+the hat|hatten|0
+cooks|kockar|0
+july|juli|0
+the animals|djuren|0
+the bear|björnen|0
+the work|arbetet|0
+worker|arbetare|0
+the tea|teet|0
+the bird|fågeln|0
+of|av|0
+weird|konstigt|0
+tuesday|tisdag|0
+questions|frågor|0
+sisters'|systrars|0
+breakfast|frukost|0
+the model|modellen|0
+or|eller|0
+the reindeer|renen|0
+the children|barnen|0
+the dogs'|hundarnas|0
+mouse|mus|0
+think|tycker|0
+pants|byxor|0
+skirt|kjol|0
+shoe|sko|0
+socks|strumpor|0
+the turtles|sköldpaddorna|0
+the food|maten|0
+the question|frågan|0
+the girl's|flickans|0
+june|juni|0
+one|sig,en,ett|0
+model|modell|0
+coat|rock|0
+swimming|simmar|0
+the job|jobben,jobbet|0
+jumping|hoppar|0
+reading|läser|0
+the summer|sommaren|0
+dogs|hundar|0
+coffee|kaffe|0
+children|barn|0
+purple|lila|0
+of the cooks|kockarnas|0
+he|han|0
+pork|fläskkött|0
+the elephant|elefanten|0
+is raining|regnar|0
+woman|kvinna|0
+outside|utanför|0
+sleeping|sover|0
+the tomato|tomaten|0
+august|augusti|0
+the brothers|bröderna|0
+the women|kvinnorna|0
+where|var,vart|0
+bad ones|dåliga|0
+the father|pappan|0
+pocket|ficka|0
+the man's|mannens|0
+twin brother|tvillingbror|0
+open|öppen,öppet,öppna|0
+welcome|välkommen|0
+mine|mina|0
+washes|tvättar|0
+since|eftersom|0
+interpreter|tolk|0
+hello|hallå,hej|0
+the judge|domaren|0
+the elephants|elefanterna|0
+twin|tvilling|0
+month|månad|0
+clean|ren|0
+far|långt|0
+artist|artist|0
+boy|pojke|0
+animal|djur|0
+same|samma|0
+me|mig|0
+november|november|0
+the girls'|flickornas|0
+tomato|tomat|0
+behind|bakom|0
+the boss|chefen|0
+after|efter|0
+against|mot|0
+the letters|breven|0
+the dog|hunden|0
+father in law|svärfar|0
+the moose|älgarna|0
+fall|höst|0
+the artist's|artistens|0
+him|honom|0
+the child's|barnets|0
+important|viktigt,viktig|0
+blue|blått,blå,blåa|0
+year|år|0
+wolf|varg|0
+cat's|katts|0
+suit|kostym|0
+the artist|artisten|0
+have|har,ha|0
+her|hennes,henne|0
+the hats|hattarna|0
+ours|våra,vårt|0
+colorful|färgglad|0
+various|olika|0
+woman's|kvinnans|0
+the shirts|tröjorna|0
+turtles|sköldpaddor|0
+april|april|0
+sitting|sitter|0
+large|stora,stort|0
+oil|olja|0
+badly|dåligt|0
+priest|präst|0
+dresses|klänningar|0
+the farmers|bönderna|0
+mail|brev|0
+crying|gråter|0
+the dogs|hundarna|0
+lemon|citron|0
+the|de,den,det|0
+moose|älg,älgar|0
+green|grönt,grön|0
+march|mars|0
+pepper|peppar|0
+dress|klänning|0
+of cats|katternas|0
+the men|männen|0
+the horse|hästen|0

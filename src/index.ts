@@ -3,9 +3,15 @@ import fs from 'fs'
 import * as dotenv from 'dotenv'
 dotenv.config()
 
-type Word = { word: string, translation: string }
+type Word = { word: string, translations: string[], points : number }
 
-const words: Word[] = fs.readFileSync('words.txt', 'utf8').split('\n').map(l => l.split('|')).map(l => ({ word: l[1], translation: l[0] }));
+const words: Word[] = fs.readFileSync('words.txt', 'utf8')
+                        .split('\n')
+                        .map(l => l.split('|')).map(l => ({
+                            word: l[0].toLowerCase(),
+                            translations: l[1].toLowerCase().split(','),
+                            points: +l[2]
+                        }))
 
 const bot = new Telegraf(process.env.BOT_TOKEN ?? '');
 bot.start((ctx) => ctx.reply('Welcome'));
@@ -13,27 +19,43 @@ bot.help((ctx) => ctx.reply('Send me a sticker'));
 bot.on('sticker', (ctx) => ctx.reply('👍'));
 bot.hears('hi', (ctx) => ctx.reply('Hey there'));
 
+bot.command('all', async (ctx) => {
+    const ws = words.sort(w => -w.points);
+    
+    const chunkSize = 100;
+    for (let i = 0; i < ws.length; i += chunkSize) {
+        const chunk = ws.slice(i, i + chunkSize);
+        await ctx.reply(
+            chunk
+            .map(w => `${w.word} | ${w.translations.join(', ')} | ${w.points}`)
+            .join('\n')
+            );
+    }
+})
 
 let currentWord: Word | null =  null;
 bot.on('text', async (ctx) => {
-    const text = ctx.message.text.trim().toLowerCase();
-
-    if (currentWord === null) {
-        currentWord = words[Math.floor(Math.random() * words.length)];
-        await ctx.reply(`Next word:\n${currentWord?.word}`);
-        return;
+    
+    if (currentWord !== null) {
+        const text = ctx.message.text.trim().toLowerCase();
+        if (currentWord?.translations.includes(text)) {
+            currentWord.points += (1 - currentWord.points) / 2;
+            await ctx.reply('🟩 Correct!');
+        } else {
+            currentWord.points /= 2;
+            if (text === 'dc') {
+                await ctx.reply(`🟨 All correct answers are:\n<code>${currentWord?.translations.join(', ')}</code>`);
+            } else {
+                await ctx.reply('🟥 Wrong!');
+                return;
+            }
+        }
     }
 
-    if (text === currentWord?.translation.toLowerCase() || text === 'dc') {
-        await ctx.reply(text === 'dc' ? `🟨 The correct answer was:\n${currentWord?.translation}` : '🟩 Correct!');
-        
-        currentWord = null;
-        currentWord = words[Math.floor(Math.random() * words.length)];
-        await ctx.reply(`Next word:\n${currentWord?.word}`);
-    } else {
-        await ctx.reply('🟥 Wrong!');
-    }
+    currentWord = words.sort(() => Math.random() - 0.5).sort(w => w.points)[0];
+    await ctx.reply(`Next word:\n<code>${currentWord?.word}</code>`, { parse_mode: 'HTML' });
 
+    fs.writeFileSync('words.txt', words.map(w => `${w.word}|${w.translations.join(',')}|${w.points}`).join('\n'));
 })
 
 
