@@ -4510,7 +4510,7 @@
     "se": [
       "jag"
     ],
-    "points": 0,
+    "points": 0.5,
     "known": true
   },
   {
@@ -5362,7 +5362,7 @@
     "se": [
       "ser"
     ],
-    "points": 0,
+    "points": 0.5,
     "known": true
   },
   {
@@ -7884,7 +7884,7 @@
     "se": [
       "smörgås"
     ],
-    "points": 0,
+    "points": 0.75,
     "known": true
   },
   {
@@ -8756,7 +8756,7 @@
     "se": [
       "spindel"
     ],
-    "points": 0,
+    "points": 0.5,
     "known": true
   },
   {
@@ -9421,7 +9421,7 @@
       "den",
       "det"
     ],
-    "points": 0,
+    "points": 0.5,
     "known": true
   },
   {
@@ -9910,7 +9910,7 @@
     "se": [
       "kockarna"
     ],
-    "points": 0,
+    "points": 0.5,
     "known": true
   },
   {
@@ -11870,7 +11870,7 @@
     "se": [
       "vattnet"
     ],
-    "points": 0,
+    "points": 0.5,
     "known": true
   },
   {
@@ -12617,14 +12617,6 @@
     "known": false
   },
   {
-    "en": "u.s",
-    "se": [
-      "oss"
-    ],
-    "points": 0,
-    "known": true
-  },
-  {
     "en": "ugly",
     "se": [
       "ful"
@@ -12722,6 +12714,14 @@
     ],
     "points": 0,
     "known": false
+  },
+  {
+    "en": "us",
+    "se": [
+      "oss"
+    ],
+    "points": 0,
+    "known": true
   },
   {
     "en": "use",
@@ -13132,7 +13132,7 @@
     "se": [
       "vad"
     ],
-    "points": 0,
+    "points": 0.5,
     "known": true
   },
   {

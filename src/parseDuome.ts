@@ -34,7 +34,6 @@ async function getHtml() {
         wDict[w.en].known = wDict[w.en].known && w.known;
     }
     const resWords = Object.values(wDict).sort((a, b) => a.en.localeCompare(b.en));
-    console.log(resWords);
     fs.writeFileSync('data/words.json', JSON.stringify(resWords, null, 2));
 }
 
