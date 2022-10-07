@@ -2,7 +2,7 @@ import { parse } from 'node-html-parser';
 import axios from 'axios';
 import fs from 'fs';
 
-type Word = { en: string, se: string[], points : number, known: boolean }
+type Word = { en: string, se: string[], points : number, known: boolean, category: string }
 
 async function getHtml() {
     const pastWords = JSON.parse(fs.readFileSync('data/words.json', 'utf8')) as Word[];
@@ -20,7 +20,7 @@ async function getHtml() {
                     .map((li, i) => ({
                         se: li.querySelector('.wA')?.text ?? '',
                         known: li.querySelectorAll('a').length > 0,
-                        category: li.querySelectorAll('.work')[0].getAttribute('title'),
+                        category: li.querySelectorAll('.work')[0].getAttribute('title') ?? '',
                         en: translations[i],
                         points: 0,
                     }));
@@ -28,7 +28,7 @@ async function getHtml() {
     const wDict: { [id: string]: Word } = {};
     for (const w of words) {
         if (wDict[w.en] === undefined) {
-            wDict[w.en] = { en: w.en, se: [], points: points[w.en] ?? 0, known: w.known };
+            wDict[w.en] = { en: w.en, se: [], points: points[w.en] ?? 0, known: w.known, category: w.category };
         }
         wDict[w.en].se.push(w.se);
         wDict[w.en].known = wDict[w.en].known && w.known;

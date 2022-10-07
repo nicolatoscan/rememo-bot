@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node dist/index.js",
-    "dev": "ts-node src/index.ts",
+    "start": "node dist/bot.js",
+    "dev": "ts-node src/bot.ts",
     "parse": "ts-node src/parseDuome.ts",
     "build": "tsc"
   },
@@ -17,6 +17,7 @@
     "duolingo-api": "^1.0.2",
     "node-html-parser": "^6.1.1",
     "telegraf": "^4.10.0",
+    "telegram-keyboard": "^2.3.2",
     "typescript": "^4.8.4"
   },
   "devDependencies": {
