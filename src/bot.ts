@@ -33,6 +33,16 @@ bot.command('set', (ctx) => {
     return ctx.reply('Inline Keyboard', keyboard)
 })
 
+bot.command('1000', async (ctx) => {
+    const r1 = rememo.addFrom1000(5);
+    await ctx.reply(r1);
+
+    rememo.setSet('1000');
+
+    const r2 = rememo.nextWord();
+    await ctx.reply(r2, { parse_mode: 'HTML' });
+})
+
 bot.on('callback_query', async (ctx) => {
     const set = ctx.callbackQuery.data;
     rememo.setSet(!set || set === 'All' ? null : set);

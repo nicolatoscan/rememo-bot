@@ -33,7 +33,9 @@ export default class Rememo {
 
     public setSet(set: string | null): void {
         if (set) {
-            this.words = this.allWords.filter(w => w.category === set);
+            this.words = this.allWords.filter(w => 
+                (w.category === set) && (set !== '1000' || w.known)
+            );
         } else {
             this.words = this.allWords.filter(w => w.known);
         }
@@ -58,11 +60,42 @@ export default class Rememo {
         return `Next word [${this.currentWord.points}]:\n<code>${this.currentWord.en}</code>`;
     }
 
+    public addFrom1000(n: number): string {
+        const words = fs.readFileSync('data/1000words.txt', 'utf8')
+                        .toLowerCase()
+                        .split('\n')
+                        .map(l => l.split(','))
+                        .map(([se, en]) => ({ en, se }));;
+
+        let taken: string[] = [];
+        for (const w of words) {
+            const found = this.allWords.find(w2 => w2.en === w.en);
+            if (found && !found.known && found.category === '1000') {
+                found.known = true;
+                taken.push(`${w.en} -> ${w.se}`);
+            }
+
+            if (taken.length >= n) {
+                break;
+            }
+        }
+
+        this.updateFile();
+        this.reload();
+
+        return `Added words:\n${taken.join('\n')}`;
+    }
+
     public handleAnswer(text: string): [boolean, string] {
         const replyText = '';
         if (this.currentWord) {
             if (this.check(text)) {
                 this.currentWord.points += (1 - this.currentWord.points) / 2;
+
+                if (this.currentWord.points > .66) {
+                    this.currentWord.known = true;
+                }
+
                 return [ true, `🟩 Correct!\n<code>${this.currentWord?.se.join(', ')}</code>` ];
             } else {
                 this.currentWord.points /= 2;

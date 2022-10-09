@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node dist/bot.js",
     "dev": "ts-node src/bot.ts",
-    "parse": "ts-node src/parseDuome.ts",
+    "parse": "ts-node src/tasks/parseDuome.ts",
     "build": "tsc"
   },
   "author": "",
