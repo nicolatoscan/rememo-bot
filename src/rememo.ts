@@ -4,7 +4,7 @@ import fs from 'fs'
 export type Word = {
     en: string,
     se: string[],
-    points : number,
+    points: number,
     known: boolean,
     category: string,
 }
@@ -15,7 +15,7 @@ export default class Rememo {
 
     private allWords: Word[] = [];
     private words: Word[] = [];
-    private currentWord: Word | null =  null;
+    private currentWord: Word | null = null;
 
     constructor() {
         this.reload();
@@ -33,7 +33,7 @@ export default class Rememo {
 
     public setSet(set: string | null): void {
         if (set) {
-            this.words = this.allWords.filter(w => 
+            this.words = this.allWords.filter(w =>
                 (w.category === set) && (set !== '1000' || w.known)
             );
         } else {
@@ -53,19 +53,31 @@ export default class Rememo {
         return false;
     }
 
+    private pickCurrentWord(): void {
+        this.currentWord = this.words[0];
+        for (let i = 1; i < this.words.length; i++) {
+            if (this.words[i].points < this.currentWord.points) {
+                this.currentWord = this.words[i];
+            }
+            else if (this.words[i].points === this.currentWord.points) {
+                if (Math.random() > .5) {
+                    this.currentWord = this.words[i];
+                }
+            }
+        }
+    }
+
     public nextWord(): string {
-        this.currentWord = this.words
-                                .sort(() => Math.random() - .5)
-                                .reduce((prev, curr) => prev.points < curr.points ? prev : curr);
-        return `Next word [${this.currentWord.points}]:\n<code>${this.currentWord.en}</code>`;
+        this.pickCurrentWord();
+        return `Next word [${this.currentWord!.points}]:\n<code>${this.currentWord!.en}</code>`;
     }
 
     public addFrom1000(n: number): string {
         const words = fs.readFileSync('data/1000words.txt', 'utf8')
-                        .toLowerCase()
-                        .split('\n')
-                        .map(l => l.split(','))
-                        .map(([se, en]) => ({ en, se }));;
+            .toLowerCase()
+            .split('\n')
+            .map(l => l.split(','))
+            .map(([se, en]) => ({ en, se }));;
 
         let taken: string[] = [];
         for (const w of words) {
@@ -96,7 +108,7 @@ export default class Rememo {
                     this.currentWord.known = true;
                 }
 
-                return [ true, `🟩 Correct!\n<code>${this.currentWord?.se.join(', ')}</code>` ];
+                return [true, `🟩 Correct!\n<code>${this.currentWord?.se.join(', ')}</code>`];
             } else {
                 this.currentWord.points /= 2;
 
