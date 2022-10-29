@@ -1,7 +1,6 @@
 import { Telegraf } from 'telegraf'
 import { Keyboard, Key  } from 'telegram-keyboard'
 import Rememo from './rememo'
-import fs from 'fs'	
 import * as dotenv from 'dotenv'
 dotenv.config()
 
