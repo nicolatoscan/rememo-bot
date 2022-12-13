@@ -1,12 +1,12 @@
 import fs from 'fs'
 
-
 export type Word = {
     tr: string,
     or: string,
     points: number,
     known: boolean,
     index: number,
+    lastCorrect?: number,
 }
 
 export default class Rememo {
@@ -16,6 +16,7 @@ export default class Rememo {
     private allWords: Word[] = [];
     private words: Word[] = [];
     private currentWord: Word | null = null;
+    private currentNDone = 0;
 
     constructor() {
         this.reload();
@@ -40,37 +41,33 @@ export default class Rememo {
     }
 
     private pickCurrentWord(): void {
-        this.currentWord = this.words[0];
-        for (let i = 1; i < this.words.length; i++) {
-            if (this.words[i].points < this.currentWord.points) {
-                this.currentWord = this.words[i];
-            }
-            // else if (this.words[i].points === this.currentWord.points) {
-            //     if (Math.random() > .5) {
-            //         this.currentWord = this.words[i];
-            //     }
-            // }
-        }
+        this.currentWord = this.words
+            .filter(w => !w.lastCorrect || w.lastCorrect <= this.currentNDone - 10)
+            .reduce((a, b) => a.points <= b.points ? a : b, { points: 1.1 } as Word);
     }
 
     public nextWord(): string {
         this.pickCurrentWord();
-        return `Next word [${this.currentWord!.points}]: <code>${this.currentWord!.tr}</code>`;
+        return `Next word [${this.currentWord!.points.toPrecision(2)}]: <code>${this.currentWord!.tr}</code>`;
     }
 
     public handleAnswer(text: string): [boolean, string] {
 
         if (this.currentWord) {
             if (this.check(text)) {
-                this.currentWord.points += (1 - this.currentWord.points) / 2;
+                const pp = (1 - this.currentWord.points) / 2;
+                this.currentWord.points += pp > 0.25 ? 0.25 : pp;
 
-                if (this.currentWord.points > .66) {
-                    this.currentWord.known = true;
-                }
+                this.currentWord.lastCorrect = this.currentNDone;
+                this.currentNDone++;
 
-                return [true, `🟩 Correct! <code>${this.currentWord?.or}</code>`];
+                // if (this.currentWord.points > .66) {
+                //     this.currentWord.known = true;
+                // }
+
+                return [true, `🟩 Correct! [${this.currentWord!.points.toPrecision(2)}]<code>${this.currentWord?.or}</code>`];
             } else {
-                this.currentWord.points /= 2;
+                this.currentWord.points /= 3;
 
                 if (text === 'dc') {
                     return [true, `🟨 All correct answers are:\n<code>${this.currentWord?.or}</code>`];
