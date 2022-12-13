@@ -32,8 +32,8 @@ bot.command('load', (ctx) => {
 })
 
 bot.on('callback_query', async (ctx) => {
-    const set = ctx.callbackQuery.data;
-    const indexes = set?.split(',').map(s => parseInt(s)) ?? [];
+    const set = (ctx.callbackQuery as any)?.data;
+    const indexes = set?.split(',').map((s: string) => parseInt(s)) ?? [];
     await ctx.answerCbQuery(set);
 
     rememo.loadWords(indexes);
