@@ -10,8 +10,6 @@ const rememo = new Rememo();
 const bot = new Telegraf(process.env.BOT_TOKEN ?? '');
 bot.start((ctx) => ctx.reply('Ciao'));
 
-
-
 bot.command('flag', async (ctx) => {
     await ctx.reply(rememo.flag() ? 'Flagged' : 'No word selected');
 })
@@ -21,10 +19,11 @@ bot.command('reload', async (ctx) => {
     await ctx.reply('Reloaded');
 })
 
-bot.command('set', (ctx) => {
+bot.command('load', (ctx) => {
+    const nextWords = rememo.nextToLoad(10);
     const keyboard = Keyboard.make([
-        Key.callback('All', 'All'),
-        ...rememo.getSets().map(s => Key.callback(s, s))
+        ...nextWords.map(s => Key.callback(s.tr, s.index.toString())),
+        Key.callback('Load all', nextWords.map(w => w.index.toString()).join(','))
     ], {
         columns: 2
     } as any).inline()
@@ -32,36 +31,25 @@ bot.command('set', (ctx) => {
     return ctx.reply('Inline Keyboard', keyboard)
 })
 
-bot.command('1000', async (ctx) => {
-    const r1 = rememo.addFrom1000(5);
-    await ctx.reply(r1);
-
-    rememo.setSet('1000');
-
-    const r2 = rememo.nextWord();
-    await ctx.reply(r2, { parse_mode: 'HTML' });
-})
-
 bot.on('callback_query', async (ctx) => {
     const set = ctx.callbackQuery.data;
-    rememo.setSet(!set || set === 'All' ? null : set);
+    const indexes = set?.split(',').map(s => parseInt(s)) ?? [];
     await ctx.answerCbQuery(set);
 
-    const reply = rememo.nextWord();
-    await ctx.reply(reply, { parse_mode: 'HTML' });
+    rememo.loadWords(indexes);
+    await ctx.reply(`Loaded ${indexes.length} words`);
 })
 
 bot.on('text', async (ctx) => {
     const text = ctx.message.text.trim().toLowerCase();
 
-    const [next, reply] = rememo.handleAnswer(text);
-    await ctx.reply(reply, { parse_mode: 'HTML' });
-
+    let [next, reply] = rememo.handleAnswer(text);
+    
     if (next) {
-        const reply = rememo.nextWord();
-        await ctx.reply(reply, { parse_mode: 'HTML' });
+        reply += `\n\n${rememo.nextWord()}`;
     }
-
+    
+    await ctx.reply(reply, { parse_mode: 'HTML' });
     rememo.updateFile();
 })
 

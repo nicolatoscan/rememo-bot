@@ -1,0 +1,2018 @@
+en man; a man
+en kvinna; a woman
+är; is
+en pojke; a boy
+en flicka; a girl
+jag; I
+han; he
+hon; she
+ett; one
+ett äpple; an apple
+och; and
+äter; eats
+dricker; drinks
+vatten; water
+mannen; the man
+kvinnan; the woman
+ett bröd; a bread
+vi; we
+läser; reads
+kvinnor; women
+en tidning; a newspaper
+de; they
+män; men
+flickor; girls
+pojkar; boys
+du; you
+en smörgås; a sandwich
+ris; rice
+ett barn; a child
+mjölk; milk
+en bok; a book
+en meny; a menu
+har; have
+pojken; the boy
+flickan; the girl
+barnet; the child
+ett brev; a letter
+hej; hello
+tack; thanks
+ja; yes
+nej; no
+då; then
+så; so
+mycket; much
+varsågod; you're welcome
+ursäkta mig; excuse me
+snälla; please
+välkommen; welcome
+god; good
+en natt; a night
+en morgon; a morning
+talar; speaks
+svenska; Swedish
+engelska; English
+inte; not
+älskar; loves
+tycker om; likes
+om; if
+en fisk; a fish
+en apelsin; an orange
+ett kaffe; a coffee
+ett ägg; an egg
+en kyckling; a chicken
+en dryck; a drink
+en middag; a dinner
+ett vin; a wine
+socker; sugar
+en lunch; alunch
+en frukost; a breakfast
+en ost; a cheese
+en frukt; a fruit
+pasta; pasta
+mat; food
+en öl; a beer
+nötkött; beef
+en soppa; a soup
+en tomat; a tomato
+en jordgubbe; a strawberry
+en citron; a lemon
+peppar; pepper
+salt; salt
+olja; oil
+en måltid; a meal
+ett te; a tea
+fläskkött; pork
+vegetarian; vegetarian
+ett kött; a meat
+en glass; an ice cream
+en juice; a juice
+äpplet; the apple
+ett glas; a glass
+en gaffel; a fork
+en kniv; a knife
+en sked; a spoon
+en kopp; a cup
+en tallrik; a plate
+en restaurang; a restaurant
+en kock; a chef
+en katt; a cat
+en hund; a dog
+en häst; a horse
+fågeln; the bird
+en fågel; a bird
+katten; the cat
+hunden; the dog
+hästen; the horse
+en björn; a bear
+en älg; a moose
+djuret; the animal
+björnen; the bear
+älgen; the moose
+en anka; a duck
+ett djur; an animal
+en spindel; a spider
+en krabba; a crab
+en sköldpadda; a turtle
+en elefant; an elephant
+ankan; the duck
+sköldpaddan; the turtle
+elefanten; the elephant
+en varg; a wolf
+en ren; a reindeer
+en mus; a mouse
+krabban; the crab
+en myra; an ant
+spindeln; the spider
+smörgåsen; the sandwich
+kaffet; the coffee
+vinet; the wine
+frukten; the fruit
+köttet; the meat
+teet; the tea
+ölet; the beer
+vattnet; the water
+apelsinen; the orange
+ägget; the egg
+kycklingen; the chicken
+sockret; the sugar
+saltet; the salt
+osten; the cheese
+soppan; the soup
+lunchen; the lunch
+frukosten; the breakfast
+riset; the rice
+nötköttet; the beef
+maten; the food
+pastan; the pasta
+jordgubben; the strawberry
+citronen; the lemon
+pepparn; the pepper
+oljan; the oil
+fisken; the fish
+fläskköttet; the pork
+tomaten; the tomato
+glassen; the ice cream
+tidningen; the newspaper
+boken; the book
+brödet; the bread
+måltiden; the meal
+äpplen; apples
+böcker; books
+tidningar; newspapers
+katter; cats
+hundar; dogs
+hästar; horses
+flera; several
+ankor; ducks
+sköldpaddor; turtles
+fåglar; birds
+tallrikar; plates
+smörgåsar; sandwiches
+elefanter; elephants
+äpplena; the apples
+tidningarna; the newspapers
+katterna; the cats
+hundarna; the dogs
+elefanterna; the elephants
+männen; the men
+kockar; chefs
+kvinnorna; the women
+ankorna; ducks
+sköldpaddorna; the turtles
+djuren; the animals
+fåglarna; the birds
+tallrikarna; the plates
+smörgåsarna; the sandwiches
+hästarna; the horses
+böckerna; the books
+kockarna; the chefs
+breven; the letters
+barnen; the children
+en sko; a shoe
+på; on
+en klänning; a dress
+en jacka; a jacket
+en kjol; a skirt
+en tröja; a sweater
+en strumpa; a sock
+byxor; pants
+kläder; clothes
+en kostym; a suit
+en hatt; a hat
+en skjorta; a shirt
+en skärp; a belt
+en handske; a glove
+en slips; a tie
+en ficka; a pocket
+en knapp; a button
+en halsduk; a scarf
+en rock; a long coat
+att se; to see
+att komma; to come
+att simma; to swim
+att skriva; to write
+att sjunga; to sing
+att välja; to choose
+att gå; to walk
+att hoppa; to jump
+att sova; to sleep
+att springa; to run
+att åka; to go
+att regna; to rain
+att höra; to hear
+att sälja; to sell
+att betala; to pay
+att hitta; to find
+att arbeta; to work
+att rita; to draw
+att ha; to have
+att köpa; to buy
+att använda; to use
+att visa; to show
+att leka; to play
+att skratta; to laugh
+att gråta; to cry
+att tvätta; to wash
+att lyssna; to listen
+att stá; to stand
+att prata; to speak
+att flyga; to fly
+att finnas; to exist
+att ta; to take
+att stötta; to support
+att sitta; to sit
+vit; white
+rosa; pink
+svart; black
+orange; orange
+röd; red
+blå; blue
+gul; yellow
+färg; color
+lila; purple
+grå; gray
+brun; brown
+grön; green
+gyllene; golden
+färgglad; colorful
+vad; what
+hur; how
+vem; who
+vems; whose
+varför; why
+vart; to where
+var; where
+många; many
+när; when
+fråga; question
+svar; answer
+att göra; to make
+ingen; no one
+förstår; understands
+svarar; answers
+frågar; asks
+vet; know
+vilken; which
+från; from
+i; in
+mellan; between
+för; for
+utan; without
+med; with
+genom; through
+till; to
+enligt; according to
+efter; after
+under; under
+över; over
+utanför; outside
+framför; in front
+bredvid; next to
+mot; against
+framåt; forward
+före; before
+bakom; behind
+eller; or
+men; but
+helst; preferably
+som; as
+därför; because
+eftersom; since
+att; to
+medan; while
+innan; before
+en tid; a time
+en eftermiddag; an afternoon
+en dag; a day
+en kväll; an evening
+en timme; an hour
+måndag; Monday
+tisdag; Tuesday
+onsdag; Wednesday
+fredag; Friday
+en kalender; a calendar
+lördag; Saturday
+söndag; Sunday
+ett år; a year
+en vecka; a week
+en ålder; an age
+en helg; a weekend
+torsdag; Thursday
+en månad; a month
+januari; January
+februari; February
+mars; March
+april; April
+ett datum; a date
+maj; May
+juni; June
+juli; July
+september; September
+augusti; August
+oktober; October
+november; November
+december; December
+en vardag; a week day
+en årstid; a season
+vinter; winter
+sommar; summer
+höst; autumn
+en minut; one minute
+en midsommar; a midsummer
+ögonblick; moment
+född; born
+ett årtionde; a decade
+en sekund; one second
+en stund; a while
+ett århundrade; one century
+en period; a period
+tills; until
+en kvart; a quarter
+en generation; a generation
+ett dygn; a full day
+ett halvår; six months
+en fest; a party
+en pappa; a dad
+en mamma; a mom
+en dotter; a daughter
+en syster; a sister
+systrar; sisters
+en bror; a brother
+bröder; brothers
+son; son
+en familj; a family
+en förälder; a parent
+en fru; a wife
+ett syskon; a sibling
+ett bröllop; a wedding
+en mormor; a maternal grandmother
+en farfar; a paternal grandfather
+en mor; a mother
+en far; a father
+en farmor; a paternal grandmother
+en morfar; a maternal grandfather
+en kusin; a cousin
+en tvilling; a twin
+ett barnbarn; a grandchild
+söner; sons
+döttrar; daughters
+en student; a student
+en läkare; a doctor
+arbete; work
+en författare; an author
+en modell; a model
+ett jobb; a job
+personal; staff
+polis; police
+en tolk; an interpreter
+en advokat; a lawyer
+en karriär; a career
+en artist; an artist
+en sekreterare; a secretary
+en arbetare; a worker
+professionell; professional
+en domare; ajudge
+en brandman; a fire fighter
+en pilot; a pilot
+en vakt; a guard
+en skådespelare; an actor
+en skådespelerska; an actress
+en chef; a boss
+en soldat; a soldier
+ett yrke; a profession
+en bonde; a farmer
+en arkitekt; an architect
+en ingenjör; an engineer
+en präst; a priest
+stor; big
+lång; long
+trött; tired
+liten; small
+små; tiny
+min egen; my own
+öppen; open
+bra; good
+kall; cold
+varm; warm
+smutsig; dirty
+vänster; left
+ny; new
+gammal; old
+nästa; next
+populär; popular
+viktig; important
+fin; fancy
+möjlig; possible
+samma; same
+olika; different
+lika; alike
+hel; whole
+nödvändig; necessary
+sista; last
+privat; private
+personlig; personal
+officiell; official
+självständig; independent
+konstig; weird
+dålig; bad
+vacker; beautiful
+utmärkt; excellent
+perfekt; perfect
+modern; modern
+full; full
+tom; empty
+ful; ugly
+dyr; expensive
+intressant; interesting
+historisk; historical
+religiös; religious
+fel; wrong
+allvarlig; serious
+snygg; good loooking
+riktig; TRUE
+ledsen; sad
+berömd; famous
+omöjligt; impossible
+effektiv; effective
+särskild; special
+vegetarisk; vegetarian
+traditionell; traditional
+rik; rich
+rädd; afraid
+vanlig; common
+ovanlig; unusual
+bekväm; comfortable
+värdefull; valuable
+tvåspråkig; bilingual
+att ge; to give
+att tänka; to think
+att ringa; to call
+att rädda; to save
+att studera; to study
+at hålla; to hold
+att leva; to live
+att titta; to look
+att bjuda; to offer
+att hinna; to have time to
+att försöka; to try
+att presentera; to present
+att behöva; to need
+att ligga ner; to lie down
+att bo i; to live in
+att få; to get
+att stämma; to sue
+att känna; to know
+att sluta; to end
+att kyssa; to kissa
+att önska; to wish
+att lära sig; to learn
+att orka; to have the energy
+att leta; to seek
+att passera; to pass
+att tro; to believe
+att hjälpa; to help
+att räcka; to be enough
+att dö; to die
+att följa; to follow
+att tacka; to thank
+attt verka; to seem
+att krama; to hug
+att säga; to say
+att frysa; to freeze
+att vila; to rest
+att börja; to start
+att stanna; to stay
+att lita; to trust
+att undra; to wonder
+också; also
+långt; far
+nu; now
+där; there
+mer; more
+väldigt; very
+vanligt; ordinary
+aldrig; never
+här; here
+ganska; quite
+alltid; always
+fortfarande; still
+ofta; often
+bara; only
+kanske; maybe
+ens; even
+både; both
+till och med; even
+ändå; still
+borta; away
+sällan; rarely
+igen; again
+ibland; sometimes
+verkligen; really
+egentligen; actually
+redan; already
+åtminstone; at least
+hit; (to) here
+senare; later
+snart; soon
+slut; ended
+tillräckligt; enough
+vanligtvis; usually
+dit; (to) there
+för närvarande; currently
+särskilt; particularly
+nästan; almost
+sent; late
+äntligen; finally
+i allmänhet; generally
+faktiskt; actually
+helt; completely
+ungefär; approximately
+precis; exactly
+tydligt; clearly
+var som helst; anywhere
+möjligtvis; possibly
+nära; close
+definitivt; definitely
+varken; neither
+heller; either
+långsamt; slowly
+tillsammans; together
+nödvändigtvis; necessarily
+troligtvis; likely
+absolut; absolutely
+ett hus; a house
+en hotell; a hotel
+ett badrum; a bathroom
+ett kök; a kitchen
+Sverige; Sweden
+en strand; a beach
+stränder; beaches
+en flygplats; an airport
+en väg; a road
+en kyrka; a church
+en plats; a place
+en stad; a city
+ett land; a country
+Finland; Finland
+ett hem; a home
+längs; along
+en gata; a street
+länder; countries
+städer; cities
+ett slott; a castle
+en trädgård; a garden
+en adress; an address
+avdelning; department
+ett rum; a room
+en marknad; a market
+en park; a park
+ett kontor; an office
+ett område; an area
+en bank; a bank
+en ö; an island
+en sjö; a lake
+en bar; a bar
+ett centrum; a center
+en region; a region
+en bastu; a sauna
+mark; ground
+en dal; a valley
+ett museum; a museum
+en kust; a coast
+insidan; the inside
+en skog; a forest
+en byggnad; a building
+ett hörn; a corner
+en gräns; a border
+ett torn; a tower
+ett bio; a cinema
+en allé; an avenue
+en egendom; a (piece of) property
+en affär; a store
+ett fängelse; a prison
+ett palats; a palace
+en huvudstad; a capital
+en hamn; a port
+höger; right
+en fabrik; a factory
+ett torg; a plaza
+vänster; left
+nöjesfält; amusement park
+en bondgård; a farmhouse
+västkust; west coast
+norr; north
+framsida; front
+en toalett; a toilet
+ett bord; a table
+en säng; a bed
+ett fönster; a window
+en stol; a chair
+en flaska; a bottle
+mina möbler; my furniture
+en television; a television
+en dator; a computer
+en radio; a radio
+en spegel; a mirror
+en klocka; a clock
+en mobil; a cellphone
+en dörr; a door
+en soffa; a couch
+en korg; a basket
+en lampa; a lamp
+en tvål; a soap
+ett skrivbord; a desk
+ett batteri; a battery
+en flagga; a flag
+ett lakan; a bedsheet
+en låda; a drawer
+en skärm; a screen
+en rakhyvel; a razor
+en plånbok; a wallet
+en väska; a bag
+en vägg; a wall
+en tandkräm; a toothpaste
+en våning; a floor (story)
+ett golv; a floor
+ett paraply; an umbrella
+en sak; a thing
+en leksak; a toy
+ett tak; a ceiling
+ett skåp; a cabinet
+en nyckel; a key
+ett hjul; a wheel
+en telefon; a telephone
+pengar; money
+en sax; a pair of scissors
+ett papper; a paper
+en stekpanna; a frying pan
+en pool; a pool
+ett täcke; a blanket
+en kudde; a pillow
+en motor; an engine
+en maskin; a machine
+ett föremål; an object
+en bit; a piece
+ett snöre; a piece of string
+en hylla; a shelf
+en kedja; a chain
+en roman; a novel
+en kam; a comb
+ett pulver; a powder
+en duk; a cloth
+en handduk; a towel
+en tandborste; a toothbrush
+en kastrull; a saucepan
+en garderob; a wardrobe
+en matta; a carpet
+en gardin ; a curtain
+ett tyg; a fabric
+en skål; a bowl
+en person; a person
+en vän; a friend
+en pojkvän; a boyfriend
+en flickvän; a girlfriend
+ett spädbarn; an infant
+en fiende; an enemy
+en gäst; a guest
+en människa; a human being
+ungdom; youth
+en befolkning; a population
+en kultur; a culture
+en kommitté; a committee
+en kille; a guy or boyfriend
+en konferens; a conference
+en tjej; a girl or girlfriend
+en by; a village
+par; couple
+en dam; a lady
+en medborgare; a citizen
+ett folk; a people
+ett förhållande; a relationship
+ett offer; a victim
+individ; individual
+viking; viking
+en kung; a king
+en drottning; a queen
+en prins; a prince
+en prinsessa; a princess
+en kronprinsessa; a crown princess
+en vuxen; an adult
+jag reser; I travel
+en bil; a car
+cykel; a bicycle
+en motorcykel; a motorcycle
+en resväska; a suitcase
+en buss; a bus
+ett tåg; a train
+en båt; a boat
+ett flygplan; an aircraft
+att köra; to drive
+en guide; a guide
+en  ryggsäck; a backpack
+att besöka; to visit
+jag är svensk; I am Swedish
+han är engelsk; he is English
+den är finsk; it is Finnish
+en karta; a map
+ett skepp; a ship
+norden; the north
+ett fordon; a vehicle
+en semester; a vacation
+Danmark; Denmark
+en resa; a trip
+Norge; Norway
+Skandinavien; Scandinavia
+en bro; a bridge
+en plan; a plan
+ett äventyr; an adventure
+en biljett; a ticket
+finlandssvensk; Finnish-Swedish
+en tunnelbana; a subway
+Stockholm; Stockholm
+Island; Iceland
+en turist; a tourist
+han är tysk; he is German
+Tyskland; Germany
+Amerika; America
+Europa; Europe
+Kina; China
+utomlands; abroad
+söder; South
+Finländsk; Finnish
+den är norsk; it is Norwegian
+han är Dansk; he is Danish
+busshållplats; bus stop
+kinesisk; Chinese
+internationell; international
+amerikansk; American
+europeisk; European
+runt; around
+svänger; swings
+ett pass; a passport
+allting; everything
+någonting; something
+varje; every
+utom; except
+båda; both
+annan; other
+andra; others
+annat; something other
+sådan; such
+vem som helst; whomever
+varandra; each other
+både och; both
+ingendera; neither
+antingen eller; either or
+förra året; last year
+året; year before last
+själv; self
+två; two
+tre; three
+fyra; four
+fem; five
+nummer; number
+telefonnummer; phone number
+fler; more
+sex; six
+sju; seven
+åtta; eight
+nio; nine
+tio; ten
+gånger; times
+mindre; less
+första; the first
+miljon; million
+tredje; third
+mängd; amount
+antal; quantity
+stycken; pieces
+siffra; figure or number
+elva; eleven
+tolv; twelve
+tretton; thirteen
+fjorton; fourteen
+femton; fifteen
+sexton; sixteen
+sjutton; seventeen
+summa; total sum
+arton; eighteen
+nitton; nineteen
+tjugo; twenty
+trettio; thirty
+fyrtio; forty
+femtio; fifty
+sextio; sixty
+halv; half
+sjuttio; seventy
+åttio; eighty
+nittio; ninety
+ett hundra; a hundred
+ett tusen; one thousand
+att kosta; to cost
+krona; crown
+per; per
+fjärde; fourth
+meter; meter
+tjugofyra; twenty four
+värd; worth
+tjugoett; twenty one
+genomsnitt; average
+tjugofem; twenty five
+hälften; the half
+hundratal; hundreds of
+majoritet; majority
+plus; plus
+dubbel; double
+femte; fifth
+sjätte; sixth
+sjunde; seventh
+åttonde; eighth
+nionde; ninth
+nittonhundratalet; twentieth century
+sammanlagt; altogether
+tusentals; thousands of
+att respektera; to respekt
+att ställa; to set
+att innehålla; to contain
+att möta; to meet
+att bli; to become
+att räkna; to count
+att klippa; to cut
+att må; to feel
+att sakna; to lack
+att missa; to miss
+att lägga; to lay
+att likna; to be similar
+att hyra; to rent
+att fylla; to fill
+att tappa; to drop
+att anse; to consider
+att tillverka; to manufacture
+att blanda; to mix
+att torka; to wipe
+att boka; to book
+att fortsätta; to continue
+att bygga; to build
+att vänta; to wait
+att hänga; to hang
+att importera; to import
+att berätta; to tell
+att lämna; to leave
+att undervisa; to teach
+att tillhöra; to belong
+att anta; to suppose
+att hata; to hate
+att fungera; to function
+att skicka; to sends
+att dela; to divide
+att förklara; to explain
+att passa; to match
+att servera; to serve
+att stänga; to close
+att besöka; to visit
+att vinna; to win
+att skära; to cut
+att be; to pray
+att förlora; to lose
+att angå; to concern
+att hålla med; to agree with
+äter upp; eats up
+dyker upp; shows up
+att lägga till; to add to
+skriver under; to sign
+att hoppas; to hope
+att missyckas; to fail
+att lyckas; to succeed
+att fattas; to be missing
+att minnas; to remember
+att ses; to be seen
+att träffas; to meet up
+det känns; it feels
+han skyndar sig; he hurries
+hon känner sig; she feels
+de lär sig; they learn
+de gifter sig; they get married
+han förbereder sig; he prepares himself
+att överraska; to surprise
+hon tar med sig; she takes with her
+han har med sig; he is bringing
+hon tar av sig; she takes off her
+att bry sig om; to care about
+han tar på sig; he puts on
+delar med sig; shares
+en lärare; a teacher
+en utbildning; an education
+en skola; a school
+en penna; a pen
+anteckningar; notes
+en lektion; a lesson
+en elev; a pupil
+en rast; a recess
+en kurs; a course
+en bibliotek; a library
+ett prov; a test
+en ansökning; an application
+ett exempel; an example
+en studie; a study
+svår; difficult
+en uppsats; an essay
+många ord; many words
+en kapitel; a chapter
+kunskap; knowledge
+en idé; an idea
+en klass; a class
+ett universitet; a university
+trots; despite
+en professor; a professor
+en föreläsning; a lecture
+en förklaring; an explanation
+en presentation; a presentation
+en högskola; a college
+en svårighet; a difficulty
+en läxa; a lesson
+en historia; a history
+ett mål; a goal
+en sida; a page
+ett dokument; a document
+en rapport; a report
+en undervisning; a lesson
+att betyda; to mean
+drack; drank
+talade; spoke
+var; was
+gick; walked
+åkte; went
+pratade; talked
+i går; yesterday
+tyckte om; liked
+älskade; loved
+regnade; rained
+ville ha; wanted
+såg; saw
+simmade; swam
+kom; came
+tappade; lost
+lekte; played
+hörde; heard
+sade; said
+lyssnade; listened
+hade; had
+nyligen; recently
+arbetade; worked
+han lagade mat; he cooked food
+gjorde; did
+hittade; found
+lämnade; left
+berättade; told
+tackade; thanked
+förrgår; day before yesterday
+ringde; rang
+tog; took
+tänkte; thought
+skrev; wrote
+trodde; thought
+förlorade; lost
+stängde; closed
+gav; gave
+dog; died
+stöttade; supported
+svängde; swung
+sprang; ran
+fick; got
+sålde; sold
+tittade; looked at
+kände; felt
+visste; knew
+letade; searched
+behöll; kept
+höll; held
+vann; won
+visade; showed
+köpte; bought
+betalade; paid
+hände; happened
+presenterade; presented
+innehöll; contained
+öppnade; opened
+verkade; seemed
+förklarade; explained
+svarade; responded
+frågade; asked
+dök upp; appeared
+fanns; was
+stannade; stayed
+bodde; lived
+väntade; waited
+sov; slept
+vilade; rested
+litade; trusted
+i morse; just this morning
+att bruka; to usually
+att vara; to be
+att se; to see
+att tycka om; to like
+att laga mat; to cook
+att vilja; to want
+att tala; to speak
+att göra; to do
+att bestämma; to determine
+att hyra; to rent
+att höra; to hear
+att äta; to eat
+att träna; to train
+att minnas; to remember
+att veta; to know
+att tvätta sig; to wash
+att hålla med; to agree
+att fånga; to catch
+att ge; to give
+att lära sig; to learn
+att läsa; to read
+att svara; to answer
+Göteborg; Gothenburg
+Malmö; Malmo
+nord-; north-
+Östersjön; The Baltic Sea
+Åland; Åland
+syd-; south-
+Köpenhamn; Copenhagen
+Helsingfors; Helsinki
+öster; east
+samisk; sami
+Frankrike; France
+Fransk; French
+Grekland; Greece
+Spanien; Spain
+Italien; Italy
+Rom; Rome
+Österrike; Austria
+Storbritannien; UK
+Ryssland; Russia
+Nederländerna; Netherlands
+Brasilien; Brazil
+Rysk; Russian
+Polen; Poland
+stod; stood
+förstod; understood
+räckte; was enough
+började; started
+försökte; tried
+bestämde; determined
+slutade; finished
+antog; assumed
+satt; sat
+låg; laid
+hjälpte; helped
+lärde; learned
+använde; used
+följde; followed
+läste; read
+behövde; needed
+liknade; was similar to
+hyrde; to rented
+torkade; dried
+kunde; could
+hängde; hung
+levde; lived
+valde; chose
+glömde; forgot
+jag lät dig; I let you
+jag mindes; I remembered
+det kändes; it felt
+hette; was called
+blev; became
+brukade; used to
+körde; drove
+sjöng; to sang
+flög; flew
+bjöd; invited
+föll; fell
+hoppades; hoped
+nittiotalet; the nineties
+sjuttiotalet; the seventies
+en kaka; a cookie
+en bulle; a bun
+kanel; cinnamon
+en kanelbulle; a cinnamon bun
+fika; coffee break
+att baka; to bake
+en sill; a herring
+en potatis; a potato
+en bagare; a baker
+att smaka; to taste
+en kräfta; a crayfish
+ett bageri; a bakery
+ett knäckebröd; a crispbread
+ett bär; a berry
+ett hallon; a raspberry
+grädde; cream
+en sås; a sauce
+smör; butter
+en köttbulle; a meatball
+senap; mustard
+en surströmming; a sour herring
+en tårta; a cake
+törstig; thirsty
+hungrig; hungry
+ett kylskåp; a refrigerator
+en osthyvel; a cheese slicer
+en korv; a sausage
+en vitlök; a garlic
+en lök; an onion
+en lax; a salmon
+ett rödvin; a red wine
+en morot; a carrot
+en saft; a juice
+lycka; happiness
+lycklig; happy
+rolig; funny
+tråkig; boring
+ett skratt; a laugh
+sorglig; sad
+glad; in a good mood
+en känsla; a feeling
+känslig; sensitive
+sörja; mourn
+vemod; melancholy
+ilska; rage
+arg; angry
+sorg; sorrow
+sur; mad
+att le; to smile
+ett leende; a smile
+frid; peace
+kärlek; love
+att våga; to dare
+att förlåta; to forgive
+att komma ihåg; to remember
+hemsk; horrible
+snäll; kind
+att oroa sig; to worry oneself
+fridfull; peaceful
+nervös; nervous
+att mysa; to cuddle
+att gilla; to like
+galen; crazy
+sambo; cohabitant
+kul; fun
+jag är kär; I have a crush
+mysig; cozy
+nöjd; satisfied
+en del; a part
+ett namn; a name
+en lista; a list
+ett system; a system
+en åsikt; an opinion
+ett liv; a life
+en service; a service
+en grupp; a group
+på ett sätt; in a way
+en utsikt; a view
+en sort; a variety
+en order; an order
+en typ; a type
+en design; a design
+en kontroll; a control
+en medlem; a member
+en förändring; a change
+en nivå; a level
+ett samtal; a conversation
+en profil; a profile
+ett fall; a case
+en bild; a picture
+en beskrivning; a description
+ett värde; a value
+ett innehåll; a content
+en kateogri; a category
+en version; a version
+ett konto; an account
+ett problem; a problem
+ett val; a choice
+ett resultat; a result
+en aktivitet; an activity
+ett förslag; a suggestion
+en utrustning; an equipment
+en lösning; a solution
+en överenskommelse; an agreement
+tur; luck
+ett ansvar; a responsibility
+början; beginning
+ett ärende; an errand
+ett alternativ; an alternative
+en effekt; an effect
+en tanke; a thought
+önskan; wish
+en dröm; a dream
+hopp; hope
+ett beslut; a decision
+en röst; voice
+en roll; a role
+en grad; a degree
+bevis; evidence
+ett syfte; a purpose
+en möjlighet; a possibility
+framgång; success
+ett ämne; a subject
+ett betyg; a grade
+min sömn; my sleep
+mörker; darkness
+ett ljus; ERROR
+ett ställe; a place
+ung; young
+kallare; colder
+tröttare; more tired
+varmare; warmer
+viktigare; more important
+dyrare; more expensive
+billigare; cheaper
+billig; cheap
+yngre; younger
+större; bigger
+ännu; as of yet
+äldre; older
+vackrare; more beautiful
+längre; longer
+bättre; better
+nyare; newer
+sämre; worse
+intressantare; more interesting
+rikare; richer
+vanligare; more common
+lite; a little
+kort; short
+finare; nicer, fancier
+svårare; more difficult
+långsam; slow
+gratis; for free
+ledig; available
+fri; free
+lätt; easy
+oftare; more often
+mest; most
+stark; strong
+oftast; most often
+snabb; fast
+enkel; simple
+trevlig; pleasant
+säker; secure
+söt; sweet
+kortast; shortest
+kallast; coldest
+underbar; wonderful
+varmast; warmest
+längst; farthest
+fattig; poor
+djup; deep
+rättvis; fair
+vass; sharp
+vackrast; most beautiful
+bäst; best
+viktigast; most important
+minst; least
+yngst; youngest
+äldst; oldest
+svag; weak
+ensam; alone
+färdig; finished
+störst; biggest
+sämst; worst
+regnat; rained
+att ha haft; to have had
+att ha läst; to have read
+att ha varit; to have been
+att ha gått; to have gone
+att ha lagat mat; to have cooked food
+att ha velat; to have wanted
+att ha lekt med; to have played with
+att ha hört; to have heard
+att ha ätit; to have eaten
+att ha pratat; to have talked
+att ha kommit; to have come
+att ha betalat; to have paid
+att ha sett; to have seen
+att ha sagt; to have said
+att ha lämnat; to have left
+att ha blivit; to have become
+att ha gett; to have given
+att ha skrivit; to have written
+att ha ringt; to have rung
+att ha gjort; to have done
+att ha tagit; to have taken
+att ha frågat; to have asked
+att ha skickat; to have sent
+att ha tappat; to have lost
+att ha utvecklat; to have developed
+att ha presenterat; to have presented
+att ha stängt; to have closed
+att ha träffat; to have met
+att ha försökt; to have tried
+att ha sovit; to have slept
+att ha arbetat; to have worked
+att ha tänkt; to have thought
+att ha åkt; to have gone
+att ha följt; to have followed
+att ha simmat; to have swum
+att ha sjungit; to have sung
+att ha valt; to have chosen
+att ha hoppat; to have jumped
+att ha tvingat; to have forced
+att ha berättat; to have told
+att ha bott; to have stayed
+att ha beställt; to have ordered
+att ha öppnat; to have opened
+att ha vunnit; to have won
+att ha stannat; to have stayed
+att ha köpt; to have bought
+att ha sålt; to have sold
+att ha känt; to have felt
+att ha druckit; to have drunk
+att ha saknat; to have missed
+att ha slutat; to have stopped
+att ha antagit; to have assumed
+att ha tvättat; to have washed
+att ha stått; to have stood
+en igelkott; a hedgehog
+en ko; a cow
+en uggla; an owl
+en kanin; a rabbit
+en räv; a fox
+ett får; a sheep
+en apa; a monkey
+ett lamm; a lamb
+en mygga; a mosquito
+en fluga; a fly
+en gris; a pig
+en insekt; an insect
+vinge; wing
+svans; tail
+ett bi; a bee
+ett lejon; a lion
+en ekorre; a squirrel
+en orm; a snake
+en groda; a frog
+en fjäril; a butterfly
+att bita; to bite
+en ödla; a lizard
+att jaga; to hunt
+en tiger; a tiger
+kan; can
+måste; must
+borde; should
+att vara tvungen; to be forced to
+jag ska; I will
+läs boken; read the book
+ät maten; eat the food
+tänk på mig; think about me
+köp mjölk; buy milk
+sälj din bil; sell your car
+han åk iväg; he rode away
+sjung inte; do not sing
+spring, Forrest!; run, Forrest!
+skriv ett brev; write a letter
+följ efter honom; follow him
+ja, fortsätt; yes, continue
+håll min dryck; hold my drink
+förlåt; sorry
+ställ en fråga; ask a question
+lägg dig; lay down
+möt mig här i morgon; meet me here tomorrow
+se upp; beware
+hjälp; help
+ring mig; call me
+lek inte med hunden; do not play with the dog
+låt mig se; let me see
+jag ska låta; I will let
+hon ska dricka; she will drink
+han ska skynda sig; he will hurry up
+han kommer att gifta sig; he is going to get married
+kommer att; is going to
+att uppnå; to achieve
+i morgon bitti; early tomorrow morning
+glömma; forget
+hända; happen
+det kommer att ordna sig; it will be alright
+påverka; affect
+hindra; prevent
+övermorgon; day after tomorrow
+jag har hittat; I have found
+de har förlorat; they have lost
+jag kunde ha skurit; I could have cut
+att ha dött; to have died
+att ha levt; to have lived
+att ha upptäckt; to have discovered
+att ha funnits; to have existed
+att ha vetat; to have known
+att ha glömt; to have forgotten
+vars; whose
+att träffa; to hit
+att starta; to start
+att täcka; to cover
+att öka; to increase
+att måla; to paint
+att låna; to borrow
+att skada; to damage
+att skära; to cut
+att finnas; to exist
+att spara; to save
+att tillåta; to allow
+att stoppa; to stop
+att förbättra; to improve
+att förstå; to understand
+att upprepa; to repeat
+att väcka; to wake
+att utveckla; to develop
+att uppskatta; to appreciate
+att tvinga; to force
+att acceptera; to accept
+att bära; to carry
+att undvika; to avoid
+att definiera; to define
+att slå; to beat
+att kunna; to be able to
+att diskutera; to discuss
+att avsluta; to end
+att försvinna; to disappear
+att varna; to warn
+att byta; to change
+att förutsätta; to presume
+att flytta; to move
+att lida; to suffer
+att förbereda; to prepare
+att hämta; to retrieve
+att analysera; to analyze
+att bada; to bathe
+att älska; to love
+en blomma; a flower
+ett träd; a tree
+ett hav; a sea
+gräs; grass
+en himmel; a sky
+en måne; a moon
+en sol; a sun
+is; ice
+en värld; a world
+en stjärna; a star
+en eld; a fire
+luft; air
+skärgård; archipelago
+ett regn; a raikn
+en vulkan; a volcano
+en miljö; an environment
+ett berg; a mountain
+väder; weather
+natur; nature
+en flod; river
+trä; wood
+en äng; a meadow
+en våg; a wave
+en planet; a planet
+en sten; a stone
+en gran; a fir
+ett löv; a leaf
+en å; a stream
+jord; soil
+att växa; to grow
+ett klimat; a climate
+ett universum; a universe
+rök; smoke
+ett landskap; a landscape
+en ros; a rose
+att blåsa; to blow
+en vind; a wind
+ett moln; a cloud
+sand; sand
+damm; dust
+en växt; a plant
+gas; gas
+ett material; a material
+att snöa; to snow
+snö; snow
+en metall; a metal
+blixt; lightning
+åska; thunder
+rymd; space
+norrsken; Northern Lights
+ett vattenfall; a waterfall
+en regnbåge; a rainbow
+frost; frost
+mjuk; soft
+hård; hard
+lagom; a sufficient amount
+död; dead
+jobbig; annoying
+farlig; dangerous
+intresserad; interested
+smart; smart
+torr; dry
+mörk; dark
+sönder; broken
+hög; high
+dum; dumb
+rak; straight
+blyg; shy
+gift; married
+självklar; obvious
+den enda; the only
+annorlunda; different
+illa; badly
+tyst; silent
+vaken; awake
+blöt; wet
+tung; heavy
+tidig; early
+värre; worse
+tjock; fat
+smal; thin
+upptagen; busy
+annars; otherwise
+även; even
+i stället; instead
+alls; at all
+gärna; gladly
+nog; probably
+dessutom; besides
+däremot; however
+plötsligt; suddenly
+alltså; thus
+hittills; to date
+allra; the very
+fort; fast
+ständigt; constantly
+knappast; hardly
+bätte än någonsin; better than ever
+igenom; through
+samtidigt; at the same time
+genast; immediately
+en fördel; an advantage
+respekt; respect
+en situation; a situation
+effektivitet; efficiency
+en nackdel; a drawback
+en teori; a theory
+uppmärksamhet; attention
+ett intresse; an interest
+en sanning; a truth
+en framtid; a future
+ett projekt; a project
+tillåtelse; permission
+hänsyn; regard
+ett misslyckande; a failure
+en signal; a signal
+en verklighet; a reality
+ett ursprung; an origin
+en hemlighet; a secret
+en upplevelse; an experience
+en brist; a lack
+ett försök; an attempt
+ett beteende; a behavior
+ett undantag; an exception
+erfarenhet; experience
+en symbol; a symbol
+en styrka; a strength
+en utgång; an exit
+en cirkel; a circle
+en form; a shape
+humor; humor
+en relation; a relationship
+en rädsla; a fear
+ett tillstånd; a permission
+ett nöje; an entertainment
+trovärdighet; credibility
+en konsekvens; a consequence
+en stöld; a theft
+en överraskning; a surprise
+en tradition; a tradition
+en konversation; a conversation
+en tjänst; a service
+en trend; a trend
+en fras; a phrase
+en attityd; an attitude
+ett mord; a murder
+ett misstag; a mistake
+en personlighet; a personality
+glädje; joy
+en ära; an honor
+en skugga; a shadow
+ett minne; a memory
+en ingång; an entrance
+en fara; a danger
+ett lag; a team
+en spelare; a player
+en boll; a ball
+en promenad; a stroll
+en sport; a sport
+ett steg; a step
+att spela ett spel; to play a game
+en poäng; a point
+ett spel; a game
+fotboll; football
+basket; basketball
+en tränare; a coach
+en racket; a racket
+volleyboll; volleyball
+att sparka; to kick
+tennis; tennis
+en match; a match
+ett gym; a gym
+en turnering; a tournament
+idrott; sports
+golf; golf
+att kasta; to throw
+att skida; to ski
+en golfklubba; a golf club
+ishockey; ice hockey
+ett lopp; a race
+de är klara; they are done
+upp; up
+fram; forward
+förbi; past
+kom in; come in
+ned; down
+han hoppade; he jumped
+att klättra; to climb
+uppför; up the
+nerför; down the
+ur; out from
+där uppe; up there
+där framme; ahead there
+där ute; out there
+här inne; in here
+här nere; down here
+jag är hemma; I am home
+ska vi gå ihop; shall we go together
+inom; within
+omkring; around
+mitten; the middle
+att sätta; to put
+en flöjt; a flute
+en fiol; a violin
+musik; music
+en kamera; a camera
+en film; a film
+att handla om; to be about
+en saga; a story
+konst; art
+ett ljud; a sound
+fotografi; photography
+en sång; a song
+en stil; a style
+ett piano; a piano
+en gitarr; a guitar
+en hjälte; a hero
+en dans; a dance
+ett instrument; an instrument
+mode; fashion
+litteratur; literature
+teater; theater
+en konstnär; an artist
+en teckning; a drawing
+en tävling; a contest
+en invigning; an inauguration
+en tavla; a painting
+en publik; an audience
+en novell; a short story
+en konsert; a concert
+poesi; poetry
+en trumma; a drum
+ett band; a band
+en samling; a collection
+en scen; a scene
+rund; round
+att skapa; to create
+att dansa; to dance
+sjuk; ill
+en hand; a hand
+ett öga; an eye
+hälsa; health
+ett hjärta; a heart
+vård; care
+en kropp; a body
+ett huvud; a head
+ett ansikte; a face
+en medicin; a medicine
+ett nödfall; an emergency
+cancer; cancer
+en behandling; a treatment
+glasögon; glasses
+hår; hair
+en ambulans; an ambulance
+blod; blood
+en sjukdom; a disease
+patient; patient
+ett sjukhus; a hospital
+en operation; a surgery
+hud; skin
+en fot; a foot
+en smärta; a pain
+en syn; a vision
+Det gör ont; It hurts
+ett virus; a virus
+att blöda; to bleed
+en blick; a glance
+en hjärna; a brain
+en arm; an arm
+ett ben; a leg
+ett sår; a wound
+en mun; a mouth
+en olycka; an accident
+en hals; a throat
+ett finger; a finger
+ett öra; an ear
+ett bröst; a breast
+en tand; a tooth
+en tunga; atongue
+att blunda; to close your eyes
+att hosta; to cough
+en näsa; a nose
+en läpp; a lip
+en sjuksköterska; a nurse
+kondition; fitness
+en rygg; a back
+att nysa; to sneeze
+en tå; a toe
+en kind; a cheek
+gravid; pregnant
+att andas; to breathe
+att vara förkyld; to have a cold
+en nagel; a nail
+en mage; a stomach
+jag svettas; I am sweating
+ett krig; a war
+säkerhet; security
+en regering; a government
+en statsminister; a prime minister
+makt; power
+en politiker; a politician
+ett samhälle; a society
+en president; a president
+att rösta; to vote
+en strategi; a strategy
+ett råd; a (piece of) advice
+parti; party
+ett sammanträde; a meeting session
+en demokrati; a democracy
+fred; peace
+frihet; freedom
+att kräva; to demand
+en armé; an army
+en tjuv; a thief
+att stjäla; to steal
+politik; policy
+våld; violence
+ett brott; a crime
+att begå; to commit
+en ledare; a leader
+en riksdag; a parliament
+att fatta ett beslut; to make a decision
+en ordförande; a chairperson
+ett tal; a speech
+hot; threat
+en konflikt; a conflict
+en flotta; a fleet
+en kandidat; a candidate
+en riksdagsledamot; a member of parliament
+ett sameting; a Sami parliament
+en anledning; a reason
+en kris; a crisis
+en strejk; a strike
+en borgmästare; a mayor
+en domstol; a court of law
+framsteg; progress
+en pistol; a gun
+att skjuta; to shoot
+att äga; to own
+ett vapen; a weapon
+ett gevär; a rifle
+att döda; to kill
+ihjäl; to death
+att komma överens; to agree to
+en ägare; an owner
+en invånare; an inhabitant
+en sökning; a search
+information; information
+att söka; to search
+en text; a text
+en kommentar; a comment
+ett nätverk; a network
+press; press
+ett språk; a language
+ett vykort; a postcard
+ett meddelande; a message
+en kanal; a channel
+ett program; a program
+nyheter; news
+en berättelse; a tale
+ett frimärke; a postal stamp
+tillgång; access
+en journalist; a journalist
+kommunikation; communication
+att ladda ner; to download
+nätet; the net
+internet; internet
+en underskrift; a signature
+en intervju; an interview
+ett lösenord; a password
+en läsare; a reader
+en mening; a sentence
+en bokstav; a letter
+att gälla; to be valid
+användarnamn; username
+överraskad; surprised
+misslyckad; unsuccessful
+inbjuden; invited
+uppäten; eaten up
+irriterad; irritable
+öppnad; opened
+stängd; closed
+stulen; stolen
+överraskande; surprising
+irriterande; annoying
+en simmande fisk; a swimming fish
+en sovande björn; a sleeping bear
+en döende blomma; a dying flower
+en hängande växt; a hanging plant
+en sittande hund; a sitting dog
+ett liggande lejon; a lying lion
+en flygande fågel; a flying bird
+en springande höna; a running chicken
+ett lekande barn; a playing child
+en blivande fru; a future wife
+en fungerande tunnelbana; a functioning subway
+en talande delfin; a talking dolphin
+levande skuggor; living shadows
+ett givande träd; a giving tree
+jag har lärt mig; I have learned
+jag har bestämt mig; I have made a decision
+en forskning; a research
+en detalj; en detail
+en teknologi; en technology
+en storlek; a size
+en artikel; an article
+en analys; an analysis
+en linje; a line
+el; electricity
+en metod; a method
+en vikt; a weight
+ett vetenskap; a science
+en energi; an energy
+en längd; a length
+en bredd; a width
+ett eluttag; an outlet
+en volym; a volume
+att höja; to raise
+att sänka; to lower
+en hastighet; a speed
+ett avstånd; a distance
+en centimeter; a centimeter
+en skala; a scale
+en yta; a surface
+ytlig; superficial
+en definition; en definition
+en temperatur; a temperature
+att väga; to weigh
+ett kilo; a kilo
+en teknik; a technique
+en massa; a mass
+en uppgift; an assignment
+ett laboratorium; a laboratory
+en höjd; a height
+fysik; physics
+en filosofi; a philosophy
+en prick; a dot
+ett nobelpris; a Nobel Prize
+kemi; chemistry
+en formel; a formula
+att mäta; to measure
+ett mått; a measurement
+ett begrepp; a concept
+geografi; geography
+en forskare; a researcher
+en slutsats; a conclusion
+alkohol; alcohol
+att upptäcka; to discover
+att forska; to research
+att dra; to pull
+en akademi; an academy
+jag skulle ha; I would have
+jag har ändrat; I have changed
+hon vore perfekt; she would be perfect
+en gud; a god
+en religion; a religion
+andlig; spiritual
+ett troll; a troll
+en tomte; en elf
+ett spöke; a ghost
+en gudinna; a goddess
+en ande; a spirit
+en bön; a prayer
+nåd; grace
+helig; holy
+en själ; a soul
+en moské; a mosque
+en ängel; an angel
+osynlig; invisible
+en påve; a pope
+ett öde; a destiny
+en grav; a grave
+en häxa; a witch
+en trollkarl; a wizard
+de kritiseras; they are criticized
+han väljs av; he is selected by
+den ska höjas; it will be increased
+den höjs; it is increased
+huset byggs; the house is built
+han ska flyttas; he will be moved
+han kritiserades av; he was criticized by
+den byggdes i år; it was built this year
+han ska stoppas; he will be stopped
+den ska tryckas; it will be printed
+den var överkörd; it was run over
+jag var rånad; I was robbed
+hon var stoppad; she was stopped
+som jag var behandlad; as I was treated
+hon var förhörd; she was interrogated
+den var bakad; it was baked
+han var älskad; he was loved
+den var skadad; it was damaged
+den är ritad; it is drawn
+den var tillverkad; it was manufactured
+den var tryckt; it was printed
+ett företag; a company
+en skatt; a tax
+en ränta; an interest
+en skuld; a debt
+procent; percent
+en styrelse; a board
+en försäkring; an insurance
+en ekonomi; an economy
+en investering; an investment
+en förmögenhet; a fortune
+en risk; a risk
+en industri; an industry
+ett erbjudande; an offer
+guld; gold
+konkurrens; competition
+en budget; a budget
+ett kreditkort; a credit card
+en produkt; a product
+ett varumärke; a brand
+rea; sale
+handel; trade
+reklam; advertising
+en kostnad; a cost
+en organisation; an organisation
+ett öre; a cent
+ett avtal; an deal
+en valuta; a currency
+ett möte; a meeting
+ett pris; a price
+global; global
+att minska; to reduce
+ett kontrakt; a contract
+en kund; a customer
+en check; a check
+kontant; cash
+en vinst; a profit
+en förlust;  a loss
+konkurs; bankruptcy
+en lön; a salary
+en aktie; a share
+godis; candy
+läsk; soda
+en födelsedag; a birthday
+en present; a gift
+ett kalas; a party
+att fylla år; to have a birthday
+att fira; to celebrate
+fyrverkerier; fireworks
+en inbjudan; an invitation
+påsk; easter
+en kräftskiva; a crayfish party
+snaps; snaps
+ett smörgåsbord; a smorgasbord
+champagne; champagne
+nyår; new year's
+en helgdag; a holiday
+en nationaldag; a national day
+grattis; congratulations
